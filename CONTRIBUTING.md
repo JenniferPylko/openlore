@@ -11,3 +11,9 @@ If you'd like to add to Open Lore, fork the repo then submit a pull request. Not
  - [x] Your contributions are a good fit for Open Lore. Like the previous point, this one's also subjective, and we can discuss it.
 
 If your pull request doesn't meet all of those requirements, it's not a big deal: **you're still free to do whatever you want with Open Lore content!** Not meeting these requirements just means your changes won't make it back upstream.
+
+## Tips
+
+I highly recommend using VSCode to read and edit this repository. The `Markdown All in One` and `md-graph` extensions are super useful, and dictionary entries for `Code Spell Checker` are included in `.vscode/settings.json`.
+
+I know many people like Obsidian.md, but I can't personally vouch for it and I don't know if it will work well for this project.
