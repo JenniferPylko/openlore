@@ -18,7 +18,7 @@ The history of Abrecis can be segmented up pretty nicely into a number of distin
   - [Schismatic era](eras/schismatic.md)
   - [Xerothermic era](eras/xerothermic.md)
   - [Atavistic era](eras/atavistic.md)
-- [Religion](religon.md) paradigm:
+- [Religion](religions/introduction.md) paradigm:
   - [Pantheistic era](eras/pantheistic.md)
   - [Polytheistic era](eras/polytheistic.md)
   - [Iconoclastic era](eras/iconoclastic.md)
