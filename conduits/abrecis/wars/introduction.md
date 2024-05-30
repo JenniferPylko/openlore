@@ -22,4 +22,6 @@ In 15xx (fix dates later) the Obsidian colonies in Daithia [declared war](daithi
 
 ## Daithia-Sangura War
 
+United Daithia fought against Obsidia-controlled Sangura for several years, but Sangura's revolution led to a ceasefire, which lasted until the war was officially ended years later.
+
 ## Sanguran Independence
