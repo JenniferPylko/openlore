@@ -20,6 +20,7 @@ The history of Abrecis can be segmented up pretty nicely into a number of distin
   - [Atavistic era](eras/atavistic.md)
 - [Religion](religon.md) paradigm:
   - [Pantheistic era](eras/pantheistic.md)
+  - [Polytheistic era](eras/polytheistic.md)
   - [Iconoclastic era](eras/iconoclastic.md)
   - [Ethrenic era](eras/ethrenic.md)
   - [Obsidic era](eras/obsidic.md)
