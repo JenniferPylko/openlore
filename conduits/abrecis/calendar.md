@@ -4,9 +4,13 @@
 
 The year on Abrecis was 510 days long.
 
-### Seasons
+### Seasonal changes
 
 Seasons worked differently depending on the part of the world and the environmental era. However, Abrecis did not experience as much axial tilt as earth, so seasons were not that different from each other, even far from the equator.
+
+## Reckoning
+
+2 different calendars were primarily used on Abrecis. Before the [anabatic era](eras/anabatic.md), years were tracked relative the prophesied year, or 0 PY. This was a count-down to [Caer's Mistake](cataclysms/caers-mistake.md), which was prophesied to occur in 23,000 years. Positive numbers were farther in the past, and after 0 PY the year numbers were negative, though they were often written as positive if the context made it clear that the year was after Caer's Mistake. Later, years were tracked relative to [Obsidis'](deities/obsidis.md) apotheosis, which occurred in 0 OA. OA originally referred to *Obsidian Anabasis*, but was commonly thought to be an acronym for *Obsidian Age*.
 
 ## Lunar Cycles
 
