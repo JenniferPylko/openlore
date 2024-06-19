@@ -16,7 +16,7 @@ Seasons worked differently depending on the part of the world and the environmen
 
 The 2 moons, [Nyvol](moons/nyvol.md) and [Shaj](moons/shaj.md), had predictable precessions in sync with Abrecis' orbit around the sun. Nyvol completed a precession every 7 years, and Shaj completed a precession every 3 years, causing them both to sync up every 21 years. This 21-year cycle was called a moonage (with -age pronounced like wreckage, not like age).
 
-The 7 years of Nyvol's cycle are each a micro-parable from Abrecian mythology. Each of these usually involves 3 characters, and Shaj's current place in its cycle would indicate which one is the one the year is "focused" on, giving each year in a moonage a unique name.
+The 7 years of Nyvol's cycle were each a micro-parable from Abrecian mythology. Each of these would usually involve 3 characters, and Shaj's current place in its cycle would indicate which one is the one the year is "focused" on, giving each year in a moonage a unique name.
 
 1. A husband (1) and wife (2) try to conceive children, but they are unsuccessful. They seek the help of a physician (3), who tells them they must sail to a new land in order to bear children, but the wife must go first with 8 other women, then the man must follow 3 years later with 8 other men. These 16 build a new community.
 2. A traveler (1) encounters a tortoise (2) on its back. The tortoise cries for help, asking to be flipped over. The traveler helps the tortoise, but a bandit (3) hiding in a hollow beneath the tortoise leaps out and kills the traveler.
