@@ -15,3 +15,7 @@ The void is the complete opposite: energy is drawn out of anything that approach
 The origin's energy crystallizes into boundaries that divert the time-stream's flow, forming individual universes, or conduits. The conduit walls separate the universe from the outside multiverse.
 
 ## Flux
+
+## The Divine Realm
+
+Above the time stream, [deities](../deities/introduction.md) exist within the divine realm. Lesser deities might only interact with a single conduit, but greater deities may have influence over several.
