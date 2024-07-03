@@ -1,0 +1,3 @@
+# The Betrayers
+
+The Betrayers was the name given to 2 separate groups who eventually merged into a single group: The Betrayers of [Ethrenal](../figures/ethrenal.md) and The Betrayers of [Obsidis](../figures/obsidis.md). The Betrayers would ritualistically sever their ears, as ears were the only reliable way of distinguishing a few of the most common [anthropoid](../anthropoids/introduction.md) species, particularly humans and [Ashenal](../anthropoids/ashenal.md).

@@ -41,3 +41,5 @@ Right now, there are 2 primary settings, or [conduits](cosmology/conduit.md), wi
   - General sci-fi
   - Space exploration (sub-light speed)
   - Horror (sci-fi, modern day, or historical)
+
+Additionally, the broader multiverse can be used as a setting for a campaign that visits several smaller, less fleshed-out settings.
