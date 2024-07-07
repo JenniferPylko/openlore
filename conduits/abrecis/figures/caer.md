@@ -1,5 +1,8 @@
 # Caer
 
+> *The prophecy did not foretell this day. I chose this day to show that change doesn't happen because of fate. History won't remember this because it was predicted: history will remember this because it wasn't.*  
+> -Caer
+
 Caer was an [Ashenal](../anthropoids/ashenal.md) mage who caused the [first cataclysm of Abrecis](../cataclysms/caers-mistake.md), earning him the moniker `The First Mistake`.
 
 ## Life Events

@@ -1,6 +1,6 @@
 # Deities
 
-A deity, or god, is a specific type of being that subsists on mental energy fiber produced by thinking beings, while also existing as pure thought. The first of these was [Loom](loom.md), who created [Ere](ere.md) and [Elfemroth](elfemroth.md).
+A deity, or god, is a specific type of being that subsists on mental energy fiber produced by thinking beings, while also existing as pure thought. The first of these was [Loom](loom.md), who created [Ere](ere.md) and [Elfemroth](elfemroth.md). Most deities are parasitic, gaining such sustenance through worship, though some are fully predatory or exhibit aspects of both parasitism and predation.
 
 ## Types
 

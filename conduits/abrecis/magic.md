@@ -1,5 +1,8 @@
 # Magic
 
+> *The term "magic" is really a layperson's word that has infected the vocabulary of arcane science. Thetic and phrenic magic are entirely different from each other. Shamanic and catabolic are related, but totally unrelated to the others. To analogize: shamanic magic may be thought of as simple tools and mechanisms. Catabolic magic is a great machine built of the same stuff as shamanic magic. Thetic magic is an ally who acts at your request. Phrenic magic is sculpted clay, always being reshaped.*  
+> -Ethrenal
+
 There were 4 main types of magic practiced on Abrecis: shamanic, thetic, phrenic, and catabolic. Shamanic and catabolic magic were really the same *type*, but it was considered shamanic if it drew a small enough amount of life energy that there weren't deleterious amounts of [miasma](miasma.md) produced.
 
 ## Shamanic

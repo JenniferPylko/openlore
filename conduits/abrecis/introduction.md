@@ -1,6 +1,6 @@
 # Abrecis
 
-Abrecis (adj. Abrecian) was a world full of magic that fell into ruin as a result of the actions of its inhabitants. Any story taking place before or during the [Hematic era](eras/hematic.md) will be tinged a shade darker than a fantasy story may normally be, due to the occurrence or inevitability of the [Hematic wars](wars/introduction.md#hematic-wars). The [geography](geography.md) shifted very suddenly on multiple occasions.
+Abrecis (adj. Abrecian) was a world full of magic that fell into ruin as a result of the actions of its inhabitants. Any story taking place before or during the [Hematic era](eras/hematic.md) will be tinged a shade darker than a fantasy story may normally be, due to the presence or inevitability of the [Hematic wars](wars/introduction.md#hematic-wars). The [geography](geography.md) shifted very suddenly on multiple occasions.
 
 Abrecis had 2 moons: [Shaj](moons/shaj.md) and [Nyvol](moons/nyvol.md). The moons played a part in the [Abrecian hybrid calendar system](calendar.md), with their orbital procession each marking multi-year cycles.
 
