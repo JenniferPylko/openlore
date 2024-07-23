@@ -5,7 +5,3 @@
 ## Prophecy
 
 Some great event was prophesied to occur in [0 PY](../calendar.md#reckoning), but the prophecy described an event of sudden magical progress, where the Ashenal would learn to access [realities beyond what they knew](../../../cosmology/multiverse-structure.md). This was ostensibly the motive behind Caer's project, but he made statements that would seem to indicate some alternate goal.
-
-## Anthropic Rings
-
-Distance from the epicenter transformed Ashenal into certain [anthropoid](../anthropoids/introduction.md) species, so those who remained Ashenal on the opposite side of the planet long existed as a mostly monolithic culture, while those in between such as the [Meshar](../anthropoids/meshar.md) and [Shaja](../anthropoids/shaja.md) developed several wildly different cultures individually.

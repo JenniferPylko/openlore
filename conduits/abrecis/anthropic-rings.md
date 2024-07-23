@@ -1,0 +1,3 @@
+# Anthropic Rings
+
+Distance from the epicenter of [Caer's Mistake](cataclysms/caers-mistake.md) transformed Ashenal into certain [anthropoid](anthropoids/introduction.md) species, so those who remained Ashenal on the opposite side of the planet long existed as a mostly monolithic culture, while those in between such as the [Meshar](anthropoids/meshar.md) and [Shaja](anthropoids/shaja.md) developed several wildly different cultures individually.
