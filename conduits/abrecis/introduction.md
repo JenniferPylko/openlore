@@ -8,6 +8,8 @@ Abrecis had 2 moons: [Shaj](moons/shaj.md) and [Nyvol](moons/nyvol.md). The moon
 
 The [great primordial entity](deities/creator.md) created the sun and planets of the [Abrecis system](solar-system.md) billions of years ago. Nearly all of this [conduit's](/cosmology/conduit.md) history took place on the 2nd planet from the sun, also called Abrecis.
 
+Additionally, there were multiple accessible subconduits, including [The Unfathomable Night](subconduits/unfathomable-night.md).
+
 ## Eras
 
 The history of Abrecis can be segmented up pretty nicely into a number of distinct [eras](eras.md), depending on what historical paradigm they are viewed from:

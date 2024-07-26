@@ -20,6 +20,8 @@ After being uninhabited by any [anthropoids](../anthropoids/introduction.md) for
 
 The previously-Obsidian colonies on Daithia formed a new country, [United Daithia](../nations/united-daithia.md).
 
-## Miasma Tombs
+## Western Frontier
+
+### Miasma Tombs
 
 In 1654 OA, the first of these was discovered near the town of Thunderperch in the foothills of the Westcolumn mountains. When unidentified interlopers began killing archaeologists and people who spent time in and near the tomb started getting sick, DTX sent fixers to Thunderperch to make the planned route of the railroad safe to travel.
