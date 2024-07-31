@@ -1,6 +1,6 @@
 # Multiverse Structure
 
-The entire multiverse can be thought of as a great river of time, energy, space, and life flowing from the origin to the void. Everything that exists is formed from the vortices, turbulence, and eddies of this current.
+The entire multiverse can be thought of as a great river of time, energy, space, and life flowing from the origin to the void. Everything that exists is formed from the vortices, turbulence, and eddies of this current. Any area within this multiverse but outside an individual universe is known as aetherspace.
 
 ## The Origin and The Void
 
