@@ -4,6 +4,10 @@ authors = ["Jennifer Pylko"]
 description = "A CC0 multiverse for everyone"
 src = "."
 
+[preprocessor.autosummary]
+index-name = "introduction.md"
+
 [output.html]
+after = ["autosummary"]
 site-url = "/openlore/"
 git-repository-url = "https://github.com/JenniferPylko/openlore"
