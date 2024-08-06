@@ -1,1 +1,3 @@
 # Second Hematic War
+
+The second hematic war began at the tail end of [the first](first-hematic.md). [Obsidis'](../figures/obsidis.md) forces declared victory over [Ethrenal](../figures/ethrenal.md), but Obsidis wanted revenge. So, she enacted total war against [Lothia](../nations/ashen-lothia). Over the next few years, this attrition expanded to include all non-human [anthropoids](../anthropoids/introduction.md), as well as history of non-human cultures. Vengeance had become genocide.

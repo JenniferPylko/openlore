@@ -39,3 +39,7 @@ The history of Abrecis can be segmented up pretty nicely into a number of distin
   - [Hematic era](eras/hematic.md)
   - [Miasmatic era](eras/miasmatic.md)
   - [Anabatic era](eras/anabatic.md)
+
+## Influences
+
+While Abrecis is not Earth, it takes quite a bit of influence from real history and mythology. For example, [Glassvale](subconduits/glassvale.md) is heavily based on the mythology of the British isles. Everything is intended to be respectful of real-world cultures, but if any aspect of Abrecis' story is not so, please submit an issue on GitHub. Open Lore is meant to be as inclusive as possible.

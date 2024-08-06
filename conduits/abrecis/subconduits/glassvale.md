@@ -4,7 +4,7 @@ Glassvale was an [S4M](../../../cosmology/dimension-types.md#standard-4-manifold
 
 ## Dolmens
 
-Dolmens were a type of grave built out of stone in the shape of a portal or doorway, with the remains buried in the dirt below. In ancient Abrecis, particularly during the [pantheistic era](../eras/pantheistic.md), dolmens were the standard method of burial in order to provide the spirits of the dead with easy access to Glassvale. Occasionally, spirits would travel through dolmens from Glassvale to the core dimension.
+Dolmens were a type of grave built out of stone in the shape of a portal or doorway, with the remains buried in the dirt below. In ancient Abrecis, particularly during the [pantheistic era](../eras/pantheistic.md), dolmens were the standard method of burial in order to provide the [spirits of the dead](../spirits/dead.md) with easy access to Glassvale. Occasionally, spirits would travel through dolmens from Glassvale to the core dimension.
 
 ## Major Locations
 
@@ -19,6 +19,18 @@ Listenoise was a harsh wasteland in perpetual night, filled with vengeful, corru
 ### Annun
 
 Annun was a small fishing village on a misty shoreline. It was not possible to see far from the shore, but occasionally the mist over the ocean would clear long enough to glimpse one of Annun's islands: Avalon, Hy-Bresail, and Thule. These 3 islands were never in the same place each time they appeared.
+
+#### Avalon
+
+Avalon was a temperate rain-forest island ruled my [Morgan, Queen of Fairies](../deities/morgan.md). The island is perpetually in early summer. Morgan took a boat to Annun when the mists were clear in order to invite spirits to Avalon. Those invited were typically leaders, mages, or other achievers while mortal.
+
+#### Hy-Bresail
+
+Hy-Bresail was primarily moorland, checkered with wetlands. It was ruled by 3 sisters: [Danu, Bahnb, and Mechanna](../deities/sisters-of-war.md). Violence was common on Hy-Bresail, as a result of the island's pervasive culture of valor and honor. Spirits who wished to spend their days doing battle would voyage to the island from Annun.
+
+#### Thule
+
+Thule was flat in most of its central area, but mountainous nearer the shore, creating striking cliffs abutting the ocean. The island was heavily forested with a variety of coniferous and deciduous trees.
 
 ## Sealing
 

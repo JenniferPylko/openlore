@@ -8,4 +8,4 @@ The Stewards mythologized The Betrayers, who they called The Founders, and carri
 
 ## Major Factions
 
-Many of The Stewards, such as the Syroeb Federation, who occupied the Shajan Caldera, chose a strategy of isolationism. The Parados Crusade was an extremist group who would attempt to kill those who were desecrated, that is, anyone who entered pre-obsidian structures. The Parados Crusade primarily fought against the expansionism of [DTX](dtx.md), and [Anthony Hill](../figures/anthony-hill.md) propagandized the conflict in order to gain and cement power.
+Many of The Stewards, such as the Syroeb Federation, who occupied the Shajan Caldera chose a strategy of isolationism. The Parados Crusade was an extremist group who would attempt to kill those who were desecrated, that is, anyone who entered pre-obsidian structures. The Parados Crusade primarily fought against the expansionism of [DTX](dtx.md), and [Anthony Hill](../figures/anthony-hill.md) propagandized the conflict in order to gain and cement power.
