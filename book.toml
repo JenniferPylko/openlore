@@ -1,0 +1,9 @@
+[book]
+title = "OpenLore"
+authors = ["Jennifer Pylko"]
+description = "A CC0 multiverse for everyone"
+src = "."
+
+[output.html]
+site-url = "/openlore/"
+git-repository-url = "https://github.com/JenniferPylko/openlore"
