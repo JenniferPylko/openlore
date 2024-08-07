@@ -11,3 +11,9 @@ index-name = "introduction.md"
 after = ["autosummary"]
 site-url = "/openlore/"
 git-repository-url = "https://github.com/JenniferPylko/openlore"
+edit-url-template = "https://github.com/JenniferPylko/openlore/edit/main/{path}"
+no-section-label = true
+
+[output.html.fold]
+enable = true
+level = 4
