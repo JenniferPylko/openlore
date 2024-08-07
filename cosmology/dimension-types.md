@@ -10,7 +10,7 @@ The Core Dimension of a conduit is the one accessible from outside the conduit. 
 
 ## Induced Space
 
-Induced space is the result of [induction](flux.md#induction), the phenomenon where the flow of space on one side of a [conduit wall](multiverse-structure.md#conduits) imitates flow on the other, causing a similar layout of space, planets, and even geography.
+Induced space is the result of [induction](flux.md#induction), the phenomenon where the flow of space on one side of a [conduit wall](introduction.md#conduits) imitates flow on the other, causing a similar layout of space, planets, and even geography.
 
 ## Projected Space
 

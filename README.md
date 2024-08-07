@@ -23,10 +23,10 @@ Within the Open Lore multiverse, [the creation myth](cosmology/creation.md) desc
 
 ## How would someone learn more?
 
-To get started learning the cosmology, check out [multiverse structure](cosmology/multiverse-structure.md).
+To get started learning the cosmology, check out [multiverse structure](cosmology/introduction.md).
 
-Right now, there are 2 primary settings, or [conduits](cosmology/conduit.md), with a list of genres they'd be suitable for:
-- [Abrecis](conduits/abrecis/introduction.md)
+Right now, there are 2 primary settings, or [conduits](cosmology/conduits/introduction.md), with a list of genres they'd be suitable for:
+- [Abrecis](cosmology/conduits/abrecis/introduction.md)
   - Pre-medieval fantasy
   - Medieval fantasy
   - Sailing/pirates (fantasy or non-magical)
@@ -35,7 +35,7 @@ Right now, there are 2 primary settings, or [conduits](cosmology/conduit.md), wi
   - Western (wild or weird)
   - Noir
   - Horror (fantasy or non-magical)
-- [Softlight Earth](conduits/softlight/introduction.md)
+- [Softlight Earth](cosmology/conduits/softlight/introduction.md)
   - Historical fiction
   - Cyberpunk
   - General sci-fi

@@ -1,0 +1,3 @@
+# Prototype Earth
+
+Creating suitable mortals who could worship deities took a lot of experimentation. [Ere](../deities/ere.md) and [Elfemroth](../deities/elfemroth.md) managed to create such mortals in a massive conduit containing an expansive universe. This conduit was the prototype of many duplicates, some just as large, some pared down to the size of a single solar system. [Softlight Earth](conduits/softlight/introduction.md) was one of the nearly-identical enormous duplicates. [Abrecis](conduits/abrecis/introduction.md) was one of the smaller conduits.
