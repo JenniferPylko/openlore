@@ -1,6 +1,6 @@
 # Glassvale
 
-Glassvale was an [S4M](/cosmology/dimension-types.md#standard-4-manifold-s4m) [induced space](/cosmology/dimension-types.md#induced-space) with geography that loosely mimicked [Abrecis Prime](../../introduction.md). The landscape constantly shifted and arranged itself in impossible geometries, making navigation by those not from Glassvale nearly impossible. Every location appeared, from that perspective, to be within the nadir of a valley, walled in by lushly forested mountains. Day and night did not cycle at a specific rate, but rather changed with the mood of the denizens. Glassvale could be accessed from the core dimension via [dolmens](#dolmens).
+Glassvale was an [S4M](../../../../dimension-types.md#standard-4-manifold-s4m) [induced space](../../../../dimension-types.md#induced-space) with geography that loosely mimicked [Abrecis Prime](../../introduction.md). The landscape constantly shifted and arranged itself in impossible geometries, making navigation by those not from Glassvale nearly impossible. Every location appeared, from that perspective, to be within the nadir of a valley, walled in by lushly forested mountains. Day and night did not cycle at a specific rate, but rather changed with the mood of the denizens. Glassvale could be accessed from the core dimension via [dolmens](#dolmens).
 
 ## Dolmens
 

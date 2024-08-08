@@ -1,4 +1,5 @@
 # Environment
+
 Across different eras, the environment of Abrecis varied wildly. Originally covered in ocean, several biomes developed after [Caer's mistake](history/cataclysms/caers-mistake.md). During the hematic wars, the entire planet desertified as bodies of water dried up.
 
 ## Environmental eras

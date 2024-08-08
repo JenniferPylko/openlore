@@ -1,3 +1,3 @@
 # Obsidic Era
 
-After [Obsidis'](../../inhabitants/figures/obsidis.md) [genocide](../wars/second-hematic.md) and [apotheosis](../../inhabitants/anthropoids/deities/obsidis.md), [Obsidism](../../organizations/religions/obsidism.md) became Abrecis' primary [religion](../../organizations/religions/introduction.md). One of the express goals of early Obsidism was the conversion or elimination of those not of the faith.
+After [Obsidis'](../../inhabitants/figures/obsidis.md) [genocide](../wars/second-hematic.md) and [apotheosis](../../inhabitants/anthropoids/deities/obsidis.md), [Obsidism](../../organizations/religions/obsidism.md) became Abrecis' primary [religion](../../organizations/religions/introduction.md). One of the express goals of early Obsidism was the conversion or elimination of those not of the faith. This era began in -1101 PY.

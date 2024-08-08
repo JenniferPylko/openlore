@@ -10,7 +10,7 @@ Seasons worked differently depending on the part of the world and the environmen
 
 ## Reckoning
 
-2 different calendars were primarily used on Abrecis. Before the [anabatic era](history/eras/anabatic.md), years were tracked relative the prophesied year, or 0 PY. This was a count-down to [Caer's Mistake](history/cataclysms/caers-mistake.md), which was prophesied to occur in 23,000 years. Positive numbers were farther in the past, and after 0 PY the year numbers were negative, though they were often written as positive if the context made it clear that the year was after Caer's Mistake. Later, years were tracked relative to [Obsidis'](inhabitants/anthropoids/deities/obsidis.md) apotheosis, which occurred in 0 OA. OA originally referred to *Obsidian Anabasis*, but was commonly thought to be an acronym for *Obsidian Age*.
+2 different calendars were primarily used on Abrecis. Before the [anabatic era](history/eras/anabatic.md), years were tracked relative the prophesied year, or 0 PY. This was a count-down to [Caer's Mistake](history/cataclysms/caers-mistake.md), which was prophesied to occur in 23,000 years. Positive numbers were further in the past, and after 0 PY the year numbers were negative, though they were often written as positive if the context made it clear that the year was after Caer's Mistake. Later, years were tracked relative to [Obsidis'](inhabitants/anthropoids/deities/obsidis.md) apotheosis, which occurred in 0 OA. OA originally referred to *Obsidian Anabasis*, but was commonly thought to be an acronym for *Obsidian Age*.
 
 ## Lunar Cycles
 

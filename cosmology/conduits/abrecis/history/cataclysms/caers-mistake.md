@@ -4,4 +4,4 @@
 
 ## Prophecy
 
-Some great event was prophesied to occur in [0 PY](../../calendar.md#reckoning), but the prophecy described an event of sudden magical progress, where the Ashenal would learn to access [realities beyond what they knew](/cosmology/introduction.md). This was ostensibly the motive behind Caer's project, but he made statements that would seem to indicate some alternate goal.
+Some great event was prophesied to occur in [0 PY](../../calendar.md#reckoning), but the prophecy described an event of sudden magical progress, where the Ashenal would learn to access [realities beyond what they knew](../../../../introduction.md). This was ostensibly the motive behind Caer's project, but he made statements that would seem to indicate some alternate goal.

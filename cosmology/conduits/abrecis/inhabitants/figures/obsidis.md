@@ -7,6 +7,8 @@ Obsidis was a [human](../anthropoids/human.md) who played a key part in ending [
 
 ## Mortal Life
 
+Before the hematic wars, Obsidis was a mage who studied theoretical arcane concepts involving the mixing of [thetic](../../magic.md#thetic) and [catabolic](../../magic.md#catabolic) magic. In her academic pursuits, she achieved what had only been possible for deities: she could grant power to others such that their spells would not produce [miasma](../../miasma.md). She accumulated a certain amount of power ahead of time, which produced miasma, then that power could be used by her or others at a later time without any additional miasma being produced.
+
 ## Apotheosis
 
 For information on Obsidis post-apotheosis, see [Obsidis (Deity)](../deities/obsidis.md).

@@ -8,7 +8,7 @@ Abrecis had many [nations](organizations/nations/introduction.md), [religions](o
 
 Abrecis had 2 [moons](system/moons/introduction.md): [Shaj](system/moons/shaj.md) and [Nyvol](system/moons/nyvol.md). The moons played a part in the [Abrecian hybrid calendar system](calendar.md), with their orbital procession each marking multi-year cycles.
 
-The [great primordial entity](inhabitants/deities/creator.md) created the sun and [planets](system/other-planets/introduction.md) of the [Abrecis system](system/solar-system.md) billions of years ago. Nearly all of this [conduit's](/cosmology/conduits/introduction.md) history took place on the 2nd planet from the sun, also called Abrecis.
+The [great primordial entity](inhabitants/deities/creator.md) created the sun and [planets](system/other-planets/introduction.md) of the [Abrecis system](system/introduction.md) billions of years ago. Nearly all of this [conduit's](../introduction.md) history took place on the 2nd planet from the sun, also called Abrecis.
 
 Additionally, there were multiple accessible subconduits, including [The Unfathomable Night](system/subconduits/unfathomable-night.md).
 
