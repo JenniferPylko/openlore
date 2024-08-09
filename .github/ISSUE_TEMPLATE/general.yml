@@ -1,0 +1,28 @@
+name: General
+description: Use this template for non-copyright issues
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form is for general issues. If there is a copyright issue, go back and use the template for that.
+  - type: dropdown
+    id: type
+    attributes:
+      label: Issue type
+      description: What kind of issue is this?
+      multiple: false
+      options:
+        - Genre request
+        - Setting request
+        - Missing information
+        - Mistake
+        - Other question
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe your question or request
+    validations:
+      required: true

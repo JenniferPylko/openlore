@@ -1,0 +1,27 @@
+name: Copyright Issue
+description: Use this template to bring attention to copyrighted material in Open Lore, so it can be removed
+title: "COPYRIGHT ISSUE: [brief description]"
+labels: ["COPYRIGHT ISSUE"]
+assignees:
+  - JenniferPylko
+body:
+  - type: textarea
+    attributes:
+      label: Files with copyrighted content
+      description: List the files in the repository that contain copyrighted content
+      placeholder: "Example: cosmology/introduction.md, deities/loom.md"
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Copyright owner
+      description: Who owns the copyright of this content?
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Source
+      description: Where can the source of the copyrighted material be found?
+      placeholder: book, website, movie, etc.
+    validations:
+      required: true
