@@ -2,7 +2,7 @@
 
 The history of Abrecis can be segmented up pretty nicely into a number of distinct eras, depending on what historical paradigm they are viewed from:
 
-- [Environment](../environment.md) paradigm:
+- [Environment](../../environment.md) paradigm:
   - [Volcanic era](volcanic.md)
   - [Oceanic era](oceanic.md)
   - [Schismatic era](schismatic.md)

@@ -4,7 +4,7 @@ Cicadians were an [anthropoid](introduction.md) species resembling cicadas. They
 
 ## Culture
 
-The Cicadian [ring](../../geography/anthropic-rings.md) was very near the epicenter of [Caer's Mistake](../../history/cataclysms/caers-mistake.md), so the Cicadians were few and had a somewhat monolithic culture.
+The Cicadian [ring](../../geography/anthropic-rings.md) (ring 1) was very near the epicenter of [Caer's Mistake](../../history/cataclysms/caers-mistake.md), so the Cicadians were few and had a somewhat monolithic culture.
 
 ## In Obsidism
 

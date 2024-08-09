@@ -4,4 +4,4 @@ The Shaja were a species of [anthropoid](introduction.md) who were commonly 6-8 
 
 ## Major Cultures
 
-The first Shaja appeared in a [ring](../../geography/anthropic-rings.md) around the epicenter of [Caer's Mistake](../../history/cataclysms/caers-mistake.md) about 2 thirds of the way to the other side of the world. As communities split and merged during the [nomadic era](../../history/eras/nomadic.md), Shaja tended to gravitate to a few main ones: a polar nation, an equatorial nation, a desert nation, a coastal nation, and 2 different mainland temperate nations.
+The first Shaja appeared in [anthropic ring 5](../../geography/anthropic-rings.md), about one third of the way to the other side of the world from [Caer's Mistake](../../history/cataclysms/caers-mistake.md). As communities split and merged during the [nomadic era](../../history/eras/nomadic.md), Shaja tended to gravitate to a few main ones: a polar nation, an equatorial nation, a desert nation, a coastal nation, and 2 different mainland temperate nations.

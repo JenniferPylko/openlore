@@ -1,5 +1,7 @@
 # Geography
 
+![Abrecis](abrecis.png)
+
 ## Continents
 
 There have been a few different terrestrial layouts throughout the planet's history. The first era where Abrecis could properly be considered a planet (post-accretion) was the [Volcanic era](../history/eras/volcanic.md). There was a dearth of liquid water, and the entire Abrecian surface was mostly rock and lava.
