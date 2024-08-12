@@ -12,6 +12,32 @@ If you'd like to add to Open Lore, fork the repo then submit a pull request. Not
 
 If your pull request doesn't meet all of those requirements, it's not a big deal: **you're still free to do whatever you want with Open Lore content!** Not meeting these requirements just means your changes won't make it back upstream.
 
+## Style Guide
+
+For consistency's sake, please follow these guidelines.
+
+1. All text content should be Markdown
+2. Use relative paths for links
+   - This will be most compatible with various tools and environments
+3. Only use lowercase letters, numbers, and hyphens in filenames
+4. Don't add any more Markdown files to the root directory
+   - Add a directory containing an `introduction.md` instead
+5. Write descriptions of the multiverse in the past tense
+   - This way we avoid setting a specific present moment
+6. Write descriptions of the real world in the appropriate tense
+   - For example: `Istanbul is a city that used to be called Constantinople`
+7. Quoted punctuation goes inside quotes, non-quoted punctuation goes outside
+   - For example: `"What?", she exclaimed, defensively.`
+8. Always use Oxford commas
+9. Include exactly 1 top-level heading per file as the title of the file
+10. Do not indent paragraphs
+11. Do not use curly quotes
+12. When writing out block quotes, do not include quotation marks
+    - Italicize the quoted text, then put the source preceded by a hyphen on its own line
+13. Avoid multiple links in the same file with the same target
+14. Aim for 100-1000 words per file
+    - Files much smaller than this should probably be combined, and files much larger should be split
+
 ## Tips
 
 I highly recommend using VSCode to read and edit this repository. The `Markdown All in One` and `md-graph` extensions are super useful, and dictionary entries for `Code Spell Checker` are included in `.vscode/settings.json`.

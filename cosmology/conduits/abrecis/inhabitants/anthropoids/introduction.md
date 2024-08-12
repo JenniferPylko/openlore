@@ -5,6 +5,7 @@ Anthropoids are any of the many mortal peoples of Abrecis, including the Ashenal
 ## List of Anthropoids
 
 - [Ashenal](ashenal.md)
+- [Auergel](auergel.md)
 - [Cicadians](cicadians.md)
 - [Humans](humans.md)
 - [Lizard-folk](lizard-folk.md)

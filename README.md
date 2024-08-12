@@ -23,7 +23,7 @@ Within the Open Lore multiverse, [the creation myth](cosmology/creation.md) desc
 
 ## How would someone learn more?
 
-To get started learning the cosmology, check out [multiverse structure](cosmology/introduction.md).
+To get started learning the cosmology, check out [multiverse structure](cosmology/introduction.md). For a reference of taxa, see [taxonomy](taxonomy/introduction.md).
 
 Right now, there are 2 primary settings, or [conduits](cosmology/conduits/introduction.md), with a list of genres they'd be suitable for:
 - [Abrecis](cosmology/conduits/abrecis/introduction.md)
