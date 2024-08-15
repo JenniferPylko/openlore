@@ -1,0 +1,3 @@
+# Domain: Sophisticata
+
+Sophisticata is a domain within Fabrica that includes computational models that produce behavior imitating the kind of intelligence seen in beings from other systems within Illustrati, but internally work in a completely different way.

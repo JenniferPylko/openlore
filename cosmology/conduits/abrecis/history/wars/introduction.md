@@ -18,7 +18,7 @@ The [second hematic war](second-hematic.md) was started by [Obsidis](../../inhab
 
 ## Daithian Independence
 
-In 15xx (fix dates later) the Obsidian colonies in Daithia [declared war](daithian-independence.md) on the Holy Obsidian Theocracy in a bid to gain independence. This revolution was successful and the colonies formed [a new nation](../../organizations/nations/united-daithia.md).
+In 1579 OA the Obsidian colonies in Daithia [declared war](daithian-independence.md) on the Holy Obsidian Theocracy in a bid to gain independence. This revolution was successful and the colonies formed [a new nation](../../organizations/nations/united-daithia.md).
 
 ## Daithia-Sangura War
 

@@ -14,13 +14,15 @@ This continent fell mostly in the southern hemisphere, with its southwestern reg
 
 ## Later Colonization
 
-After being uninhabited by any [anthropoids](../../inhabitants/anthropoids/introduction.md) for centuries, the [Holy Obsidian Theocracy](../../organizations/nations/holy-obsidian-theocracy.md) re-discovered the continent and began to colonize it.
+After being uninhabited by any [anthropoids](../../inhabitants/anthropoids/introduction.md) for centuries, the [Holy Obsidian Theocracy](../../organizations/nations/holy-obsidian-theocracy.md) re-discovered the continent and began to colonize it. The eastern habitable zone followed the coast, and was bordered to the west by vast and arid plains of silt. Pioneers would travel west, but the population remained mostly on the east coast until well after [United Daithia](../../organizations/nations/united-daithia.md) gained independence.
 
 ## Independence from Obsidia
 
-The previously-Obsidian colonies on Daithia formed a new country, [United Daithia](../../organizations/nations/united-daithia.md).
+The previously-Obsidian colonies on Daithia declared independence, and after the [war of independence](../../history/wars/daithian-independence.md) formed United Daithia in 1589 OA.
 
 ## Western Frontier
+
+Though the silt plains were not fit for mass settlement, some would traverse them to form frontier communities. Past the harshest stretch of the plains, there was a semi-arid region before the Westcolumn mountains where most of these communities were built. Or rather, this is where the lasting communities were built.
 
 ### Miasma Tombs
 

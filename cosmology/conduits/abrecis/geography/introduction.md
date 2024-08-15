@@ -10,4 +10,4 @@ During the [Oceanic era](../history/eras/oceanic.md) there were no large landmas
 
 During the [Xerothermic era](../history/eras/xerothermic.md) there was almost no liquid water on the surface, so rather than continents and ocean there were only highlands and lowlands.
 
-During the [Schismatic](../history/eras/schismatic.md) and [Atavistic](../history/eras/atavistic.md) eras there was vast ocean surrounded by 4 main inhabited landmasses on Abrecis: [Obsidia](continents/obsidia.md), [Sangura](continents/sangura.md), [Lothia](continents/lothia.md), and [Daithia](continents/daithia.md).
+During the [Schismatic](../history/eras/schismatic.md) and [Atavistic](../history/eras/atavistic.md) eras there was vast ocean surrounded by 4 main inhabited landmasses on Abrecis: [Obsidia (Atrea)](continents/obsidia.md), [Sangura](continents/sangura.md), [Lothia](continents/lothia.md), and [Daithia](continents/daithia.md).
