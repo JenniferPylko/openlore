@@ -12,6 +12,10 @@ If you'd like to add to Open Lore, fork the repo then submit a pull request. Not
 
 If your pull request doesn't meet all of those requirements, it's not a big deal: **you're still free to do whatever you want with Open Lore content!** Not meeting these requirements just means your changes won't make it back upstream.
 
+## Ways to Contribute
+
+Contributions of all types are welcome! This could be just the description of a fictional creature, a record of a fictional historical event, a map, a drawing, a short story, or anything else that adds to the multiverse.
+
 ## Style Guide
 
 For consistency's sake, please follow these guidelines.

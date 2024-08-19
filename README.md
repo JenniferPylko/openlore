@@ -19,11 +19,11 @@ This is how we get the central dichotomy of Open Lore:
   - The dragon-god breathes slowly in its sleep, enchanting the air that exits its lungs. Open Lore is a single one of these enchanted exhalations.
 - Open Lore's cosmology is built to be extremely flexible, including universes with highly variable laws of physics. In the circumstance that a setting truly cannot be represented within Open Lore's multiverse, it almost certainly can exist in a separate existential spark.
 
-Within the Open Lore multiverse, [the creation myth](cosmology/creation.md) describes the first deity within the spark, and how it acted as a seed for countless realms to crystallize from the primordial ether.
+Within the Open Lore multiverse, [the creation myth](stories/creation.md) describes the first deity within the spark, and how it acted as a seed for countless realms to crystallize from the primordial ether.
 
 ## How would someone learn more?
 
-To get started learning the cosmology, check out [multiverse structure](cosmology/introduction.md). For a reference of taxa, see [taxonomy](taxonomy/introduction.md).
+To get started learning the cosmology, check out [multiverse structure](cosmology/introduction.md). For a reference of taxa, see [taxonomy](taxonomy/introduction.md). For stories that take place within the Open Lore multiverse, [go here](stories/introduction.md).
 
 Right now, there are 2 primary settings, or [conduits](cosmology/conduits/introduction.md), with a list of genres they'd be suitable for:
 - [Abrecis](cosmology/conduits/abrecis/introduction.md)
