@@ -1,4 +1,4 @@
-# Religion
+# Religions
 
 The first religions on Abrecis were pantheistic. That is, worshipping part of the natural world as gods.
 

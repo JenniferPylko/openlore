@@ -14,7 +14,7 @@ The history of Abrecis can be segmented up pretty nicely into a number of distin
   - [Iconoclastic era](iconoclastic.md)
   - [Ethrenic era](ethrenic.md)
   - [Obsidic era](obsidic.md)
-- [Arcane-Technology](../../arcane-technology.md) paradigm:
+- [Arcana/Technology](../technology/introduction.md) paradigm:
   - [Shamanic era](shamanic.md)
   - [Thetic era](thetic.md)
   - [Phrenic era](phrenic.md)

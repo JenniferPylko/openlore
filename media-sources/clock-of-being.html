@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<!--this code is licensed under cc0, placing it in the public domain-->
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>OpenLore Clock of Being</title>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+            body {
+                margin: 0;
+                padding: 32px;
+                padding-top: 6px;
+                font-size: 24px;
+                background-color: #111;
+                color: #eee;
+                font-family: 'UnifrakturMaguntia', sans-serif;
+                text-shadow: 0 0 20px rgba(240, 240, 240, 0.8);
+            }
+            #controls {
+                column-count: 5;
+            }
+            label {
+                display: block;
+            }
+            label:first-child {
+                display: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="controls"></div>
+        <canvas id="clock" width="1024" height="768"></canvas>
+        <script>
+            "use strict"
+            const directions = [
+                "neutral",
+                "abstract",
+                "elemental",
+                "mortal",
+                "profane",
+                "chaotic",
+                "fairy",
+                "organic",
+                "volatile",
+                "material",
+                "synthetic",
+                "spectral",
+                "holy",
+                "ordered",
+                "occult",
+                "mechanical"
+            ]
+            const timestamps = directions.map(() => ({state: false, time: -4000}))
+            controls.innerHTML = directions.map((v, i) => `<label>${v}<input type=checkbox data-direction="${i}"></label>`).join("")
+            const ctx = clock.getContext("2d")
+
+            const goldGradient = ctx.createLinearGradient(128, 128, 700, 613)
+            goldGradient.addColorStop(0, "goldenrod")
+            goldGradient.addColorStop(0.4, "tan")
+            goldGradient.addColorStop(0.5, "white")
+            goldGradient.addColorStop(0.65, "tan")
+            goldGradient.addColorStop(1, "goldenrod")
+
+            const ease = (x) => 1 - Math.pow(1 - x, 4)
+
+            addEventListener("change", (event) => {
+                if (event.target.type === "checkbox") {
+                    timestamps[parseInt(event.target.dataset.direction)] = {
+                        state: event.target.checked,
+                        time: performance.now()
+                    }
+                }
+            })
+            const render = (timestamp) => {
+                ctx.save()
+                ctx.clearRect(0, 0, 1024, 768)
+
+                ctx.strokeStyle = "#111"
+                ctx.lineWidth = 4
+                ctx.lineCap = "round"
+                ctx.font = "bold 24px UnifrakturMaguntia"
+                ctx.textAlign = "center"
+                ctx.textBaseline = "middle"
+
+                ctx.fillStyle = goldGradient
+                ctx.beginPath()
+                ctx.arc(512, 384, 380, 0, 2 * Math.PI)
+                ctx.fill()
+                ctx.stroke()
+
+                ctx.fillStyle = "beige"
+                ctx.beginPath()
+                ctx.arc(512, 384, 340, 0, 2 * Math.PI)
+                ctx.fill()
+                ctx.stroke()
+
+                ctx.fillStyle = "rgba(0,0,0,0.2)"
+                ctx.beginPath()
+                ctx.arc(512, 384, 210, 0, 2 * Math.PI)
+                ctx.fill()
+                ctx.stroke()
+                ctx.beginPath()
+                ctx.arc(512, 384, 180, 0, 2 * Math.PI)
+                ctx.stroke()
+                for (let i = 0; i < 64; ++i) {
+                    const angle = Math.PI * i / 32;
+                    const sinA = Math.sin(angle)
+                    const cosA = Math.cos(angle)
+                    ctx.beginPath()
+                    ctx.moveTo(512 + 180 * cosA, 384 + 180 * sinA)
+                    ctx.lineTo(512 + 210 * cosA, 384 + 210 * sinA)
+                    ctx.stroke()
+                }
+
+                ctx.fillStyle = "#111"
+                ctx.beginPath()
+                ctx.moveTo(512, 364)
+                ctx.lineTo(612, 284)
+                ctx.lineTo(532, 384)
+                ctx.lineTo(612, 484)
+                ctx.lineTo(512, 404)
+                ctx.lineTo(412, 484)
+                ctx.lineTo(492, 384)
+                ctx.lineTo(412, 284)
+                ctx.closePath()
+                ctx.fill()
+                ctx.stroke()
+                ctx.fillStyle = "beige"
+                ctx.beginPath()
+                ctx.moveTo(512, 184)
+                ctx.lineTo(554, 344)
+                ctx.lineTo(712, 384)
+                ctx.lineTo(554, 424)
+                ctx.lineTo(512, 584)
+                ctx.lineTo(474, 424)
+                ctx.lineTo(312, 384)
+                ctx.lineTo(474, 344)
+                ctx.closePath()
+                ctx.fill()
+                ctx.fillStyle = "rgba(0,0,0,0.2)"
+                ctx.fill()
+                ctx.stroke()
+
+                ctx.fillStyle = "#111"
+                directions.forEach((label, index) => {
+                    const angle = 2 * Math.PI * index / directions.length + Math.PI * 4
+                    const sinA = Math.sin(angle - Math.PI / 2)
+                    const cosA = Math.cos(angle - Math.PI / 2)
+                    ctx.save()
+                    ctx.beginPath()
+                    ctx.moveTo(512 + 230 * cosA, 384 + 230 * sinA)
+                    ctx.lineTo(512 + 250 * cosA, 384 + 250 * sinA)
+                    ctx.stroke()
+                    ctx.fillText(label, 512 + (265 + ctx.measureText(label).width / 2.4) * cosA, 384 + 265 * sinA)
+                    if (index !== 0) {
+                        ctx.lineWidth = 8;
+                        if (index === directions.length - 1) {
+                            ctx.beginPath()
+                            ctx.arc(512, 384, 16, 0, 2 * Math.PI)
+                            ctx.fill()
+                            ctx.stroke()
+                        }
+                        ctx.beginPath()
+                        ctx.moveTo(512, 384)
+                        const progress = ease(Math.max(0, Math.min(1, (timestamp - timestamps[index].time) / 4000)))
+                        if (timestamps[index].state) {
+                            const sinB = Math.sin(progress * angle - Math.PI / 2)// * progress
+                            const cosB = Math.cos(progress * angle - Math.PI / 2)// * progress
+                            ctx.lineTo(512 + 200 * cosB, 384 + 200 * sinB)
+                            ctx.stroke()
+                            ctx.strokeStyle = "cyan"
+                            ctx.lineWidth = 1
+                            ctx.moveTo(512, 384)
+                            ctx.lineTo(512 + 200 * cosB, 384 + 200 * sinB)
+                        } else {
+                            const sinB = Math.sin((1-progress) * angle - Math.PI / 2)// * (1-progress)
+                            const cosB = Math.cos((1-progress) * angle - Math.PI / 2)// * (1-progress)
+                            ctx.lineTo(512 + 200 * cosB, 384 + 200 * sinB)
+                            ctx.stroke()
+                            ctx.strokeStyle = "cyan"
+                            ctx.lineWidth = 1
+                            ctx.moveTo(512, 384)
+                            ctx.lineTo(512 + 200 * cosB, 384 + 200 * sinB)
+                        }
+                    }
+                    ctx.stroke()
+                    ctx.restore()
+                })
+                ctx.fillStyle = "#0cc"
+                ctx.beginPath()
+                ctx.arc(512, 384, 16, 0, 2 * Math.PI)
+                ctx.fill()
+
+                ctx.restore()
+                requestAnimationFrame(render)
+            }
+            requestAnimationFrame(render)
+        </script>
+    </body>
+</html>

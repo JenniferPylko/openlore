@@ -2,7 +2,7 @@
 
 Fabrica includes artificial intelligence and other autonomous logic machines.
 
-Domains within Fabrica:
+Fabrica includes the following domains.
 
 - [Aemula](aemula/introduction.md)
 - [Sophisticata](sophisticata/introduction.md)

@@ -43,9 +43,14 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build with mdBook
         run: |
+          rm -r .vscode
+          rm -r .github
+          rm -r media-sources
+          rm .gitignore
           touch SUMMARY.md
           mv README.md introduction.md
           mdbook build
+          rm ./book/book.toml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

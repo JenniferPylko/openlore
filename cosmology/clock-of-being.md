@@ -18,7 +18,7 @@ The aspects are as follows, arranged in a circle:
    - Opposite holy
 6. Chaotic
    - Opposite ordered
-7. Faerie
+7. Fairy
    - Opposite occult
 8. Organic
    - Opposite mechanical

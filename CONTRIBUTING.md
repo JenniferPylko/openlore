@@ -42,6 +42,6 @@ For consistency's sake, please follow these guidelines.
 
 I highly recommend using VSCode to read and edit this repository. The `Markdown All in One` and `md-graph` extensions are super useful, and dictionary entries for `Code Spell Checker` are included in `.vscode/settings.json`.
 
-This repository is set up with a GitHub Pages workflow using mdBook. To function properly, every directory must have a file called `introduction.md`, which the auto-summary preprocessor looks for. The root directory is exempt from this, because the workflow renames `README.md` to `introduction.md`.
+This repository is set up with a GitHub Pages workflow using mdBook. To function properly, every directory must have a file called `introduction.md`, which the auto-summary preprocessor looks for. The root directory is exempt from this, because the workflow renames `README.md` to `introduction.md`. Additionally, the mdBook build workflow deletes the `.gitignore` file, `book.toml`, and the `.github`, `.vscode`, and `media-sources` directories. Files not meant to be uploaded to GitHub Pages should likely go in `media-sources`.
 
 I know many people like Obsidian.md, but I can't personally vouch for it and I don't know if it will work well for this project.
