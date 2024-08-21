@@ -48,6 +48,7 @@ jobs:
           mv README.md introduction.md
           mdbook build
           rm ./book/html/book.toml
+          rm -r ./book/html/theme
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
