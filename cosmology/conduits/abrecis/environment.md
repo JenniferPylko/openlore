@@ -5,6 +5,7 @@ Across different eras, the environment of Abrecis varied wildly. Originally cove
 ## Environmental eras
 
 The eras of Abrecis in the environmental paradigm are as follows:
+
 - [Volcanic era](history/eras/volcanic.md)
 - [Oceanic era](history/eras/oceanic.md)
 - [Schismatic era](history/eras/schismatic.md)

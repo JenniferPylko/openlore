@@ -7,18 +7,18 @@ Distance from the epicenter of [Caer's Mistake](../history/cataclysms/caers-mist
 The following anthropic rings originated these respective species:
 
 1. [Cicadians](../inhabitants/anthropoids/cicadians.md)
-2. 
-3. 
-4. 
+2.
+3.
+4.
 5. [Shaja](../inhabitants/anthropoids/shaja.md)
-6. 
-7. 
-8. 
-9. 
+6.
+7.
+8.
+9.
 10. [Meshar](../inhabitants/anthropoids/meshar.md)
 11. [Auergel](../inhabitants/anthropoids/auergel.md)
-12. 
-13. 
-14. 
-15. 
+12.
+13.
+14.
+15.
 16. [Humans](../inhabitants/anthropoids/humans.md)

@@ -13,6 +13,7 @@ I found myself limited by existing campaign settings for tabletop role-playing g
 Open Lore's ultimate reason for anything existing at all is that as long as nothing exists, the potential for existence grows. This potential is then discharged like a spark jumping across a gap, and the eternities of known universes exist within that momentary flash.
 
 This is how we get the central dichotomy of Open Lore:
+
 - The description of this spark is abstract enough that it can be included in any setting that allows for *any* sort of build-up followed by release, but it can also stand alone.
   - The great artificer completed their lightning machine shortly before their death. Now, it sits running forever, slowly charging and discharging. Open Lore is a single one of these discharges.
   - The water of creation drips from the stalactites in the cave into the pool below. Open Lore is a single water droplet in free-fall.
@@ -26,6 +27,7 @@ Within the Open Lore multiverse, [the creation myth](stories/creation.md) descri
 To get started learning the cosmology, check out [multiverse structure](cosmology/introduction.md). For a reference of taxa, see [taxonomy](taxonomy/introduction.md). For stories that take place within the Open Lore multiverse, [go here](stories/introduction.md).
 
 Right now, there are 2 primary settings, or [conduits](cosmology/conduits/introduction.md), with a list of genres they'd be suitable for:
+
 - [Abrecis](cosmology/conduits/abrecis/introduction.md)
   - Pre-medieval fantasy
   - Medieval fantasy
