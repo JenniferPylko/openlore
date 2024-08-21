@@ -1,5 +1,9 @@
 # Calendar System
 
+<meta property="og:description" content="Abrecis used a solar year-based calendar that incorporated lunar cycles as a method of naming years.">
+
+Abrecis used a solar year-based calendar that incorporated lunar cycles as a method of naming years.
+
 ## Years
 
 The year on Abrecis was 510 days long.

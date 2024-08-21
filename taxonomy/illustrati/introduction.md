@@ -1,5 +1,7 @@
 # Field: Illustrati
 
+<meta property="og:description" content="Illustrati includes everything we might think of as a being, or an entity.">
+
 Illustrati includes everything we might think of as a being, or an entity. Organic life, undead, deities, artificial intelligences, souls, and spirits all fall under Illustrati.
 
 The following systems are within Illustrati.

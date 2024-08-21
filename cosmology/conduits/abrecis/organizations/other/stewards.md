@@ -1,5 +1,7 @@
 # The Stewards of Abrecis
 
+<meta property="og:description" content="The Stewards were the human descendants of The Betrayers who lived in Daithia before the continent was colonized by Obsidia.">
+
 The Stewards of Abrecis, or just The Stewards, were the human descendants of [The Betrayers](betrayers.md) who lived in [Daithia](../../geography/continents/daithia.md) before the continent was colonized by [Obsidia](../nations/holy-obsidian-theocracy.md). The Stewards continued The Betrayers' practice of ritualistic ear removal, but would do so during infancy.
 
 ## Society

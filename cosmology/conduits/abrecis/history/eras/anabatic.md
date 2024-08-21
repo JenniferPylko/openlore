@@ -1,3 +1,5 @@
 # Anabatic Era
 
+<meta property="og:description" content="This era began with the turning point of global miasma contamination, when Obsidis cleansed the air, took away magic, and worked to erase all record of non-human anthropoids.">
+
 This era began with the turning point of global [miasma](../../miasma.md) contamination, when [Obsidis](../../inhabitants/deities/obsidis.md) cleansed the air, took away [magic](../../magic.md), and worked to erase all record of non-human [anthropoids](../../inhabitants/anthropoids/introduction.md). [The Holy Obsidian Theocracy](../../organizations/nations/holy-obsidian-theocracy.md) expanded across [Obsidia](../../geography/continents/obsidia.md), then colonized other continents. Approximately a millennium and a half into this era [United Daithia](../../organizations/nations/united-daithia.md) was formed, with [Sangura](../../organizations/nations/sangura.md) gaining independence soon after. This era began in -1213 PY/0 OA.

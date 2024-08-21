@@ -1,5 +1,7 @@
 # Second Hematic War
 
+<meta property="og:description" content="The second hematic war began at the tail end of the first.">
+
 > *You, humans, are all there is. You are all there has ever been.*  
 > -Obsidis
 

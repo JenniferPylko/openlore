@@ -1,5 +1,7 @@
 # Miasma
 
+<meta property="og:description" content="Miasma is a deleterious invisible field that leaks into the world when magic is used.">
+
 Miasma is a deleterious invisible field that leaks into the world when magic is used. The original [Ashenal](inhabitants/anthropoids/ashenal.md) mages used magic in small amounts, so it had no serious effect. [Caer's Mistake](history/cataclysms/caers-mistake.md) released a huge amount of miasma, radically altering the world and its peoples. [Ethrenal](inhabitants/figures/ethrenal.md) developed techniques to push the limit of magic usage with minimal harm to one's self. As these techniques became widely used, especially during the [hematic wars](history/wars/introduction.md#hematic-wars), when the [schismatic era](history/eras/schismatic.md) transitioned to the [xerothermic era](history/eras/xerothermic.md) as the planet became desert.
 
 ## Miasma Sickness

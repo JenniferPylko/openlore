@@ -1,5 +1,7 @@
 # Obsidism
 
+<meta property="og:description" content="Obsidism was the state religion of the Holy Obsidian Theocracy and the last major religion of Abrecis as of the Obsidic Era.">
+
 Obsidism was the state religion of the [Holy Obsidian Theocracy](../nations/holy-obsidian-theocracy.md) and the last major religion of Abrecis as of the [Obsidic Era](../../history/eras/obsidic.md). The religion worshipped [Obsidis](../../inhabitants/deities/obsidis.md) and started out mostly made up of those who followed [her as a mortal](../../inhabitants/figures/obsidis.md).
 
 ## Funerary Rites

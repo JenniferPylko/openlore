@@ -1,6 +1,8 @@
 # Anthropoids
 
-Anthropoids are any of the many mortal peoples of Abrecis, including the Ashenal, humans, and lizard-folk. Anthropoids other than Ashenal appeared around the globe in [anthropic rings](../../geography/anthropic-rings.md).
+<meta property="og:description" content="Anthropoids were any of the many mortal peoples of Abrecis, including the Ashenal, humans, and others.">
+
+Anthropoids were any of the many mortal peoples of Abrecis, including the Ashenal, humans, and others. Anthropoids other than Ashenal appeared around the globe in [anthropic rings](../../geography/anthropic-rings.md).
 
 ## List of Anthropoids
 

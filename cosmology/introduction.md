@@ -1,6 +1,6 @@
 # Cosmology
 
-## Multiverse Structure
+<meta property="og:description" content="The entire multiverse can be thought of as a great waterfall of time, energy, space, and life cascading from the origin to the void.">
 
 The entire multiverse can be thought of as a great waterfall of time, energy, space, and life cascading from the origin to the void. Everything that exists is formed from the vortices, turbulence, and eddies of this current. Any area within this multiverse but outside an individual universe is known as aetherspace. Individual universes are called [conduits](#conduits) can contain multiple subconduits, dimensions, realms, planes, or whatever you want to call them. These dimensions can exhibit a number of different physical properties, as described [here](dimension-types.md).
 

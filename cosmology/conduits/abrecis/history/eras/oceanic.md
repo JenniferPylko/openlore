@@ -1,5 +1,7 @@
 # Oceanic Era
 
+<meta property="og:description" content="This era lasted for approximately 1.1 billion years and was marked by vast ocean dotted with islands.">
+
 This era lasted for approximately 1.1 billion years and was marked by vast ocean dotted with islands. The only species of people to exist were the [Ashenal](../../inhabitants/anthropoids/ashenal.md), who only appeared a few million years before the end of this era.
 
 ## End

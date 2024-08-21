@@ -1,5 +1,7 @@
 # Gridspace
 
+<meta property="og:description" content="Gridspace was a 6-dimensional Lorentz Manifold in the Softlight Earth conduit.">
+
 Gridspace was a 6-dimensional Lorentz Manifold in the [Softlight Earth](introduction.md) conduit, and the only subconduit other than the core dimension. All 6 dimensions were space-like, but 2 of them were related to time. For clarity, the following list describes the behaviors of the dimensions:
 
 - 1-4. Standard space, just a higher dimensional version of our 3-dimensional space.

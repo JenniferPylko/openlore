@@ -1,5 +1,7 @@
 # Geography
 
+<meta property="og:description" content="There have been a few different terrestrial layouts throughout the planet's history.">
+
 ![Abrecis](abrecis.png)
 
 ## Continents

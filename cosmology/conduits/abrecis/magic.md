@@ -1,5 +1,7 @@
 # Magic
 
+<meta property="og:description" content="There were 4 main types of magic practiced on Abrecis: shamanic, thetic, phrenic, and catabolic.">
+
 > *The term "magic" is really a layperson's word that has infected the vocabulary of arcane science. Thetic and phrenic magic are entirely different from each other. Shamanic and catabolic are related to each other, but totally unrelated to the others. To analogize: shamanic magic may be thought of as simple tools and mechanisms. Catabolic magic is a great machine built of the same stuff as shamanic magic. Thetic magic is an ally who acts at your request. Phrenic magic is sculpted clay, always being reshaped.*  
 > -Ethrenal
 

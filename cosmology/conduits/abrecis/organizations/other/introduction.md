@@ -1,5 +1,7 @@
 # Notable Groups
 
+<meta property="og:description" content="Notable groups throughout the history of Abrecis.">
+
 ## Pre-Obsidian
 
 - [The Industrial Union](industrial-union.md)

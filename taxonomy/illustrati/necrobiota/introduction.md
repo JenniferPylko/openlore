@@ -1,5 +1,7 @@
 # System: Necrobiota
 
+<meta property="og:description" content="Necrobiota is a system that includes all true undead.">
+
 Necrobiota is a system that includes all true undead. Some species of Illustrati commonly considered undead may in fact be members of [Biota](../biota/introduction.md), [Fabrica](../fabrica/introduction.md), or [Incorporia](../incorporia/introduction.md).
 
 Examples of things commonly considered undead that are not (or not necessarily) Necrobiota include the following.

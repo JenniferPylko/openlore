@@ -1,5 +1,9 @@
 # Obsidis (Deity)
 
+<meta property="og:description" content="Obsidis was the deity worshipped in Obsidism.">
+
+Obsidis was the deity worshipped in [Obsidism](../../organizations/religions/obsidism.md).
+
 ## Mortal Life
 
 For information on Obsidis pre-apotheosis, see [Obsidis (Mortal)](../figures/obsidis.md).

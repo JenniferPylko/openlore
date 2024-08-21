@@ -1,5 +1,7 @@
 # Creation Myth
 
+<meta property="og:description" content="A brief description of the beginning of the multiverse.">
+
 ## As all begins, so shall all end
 
 Before there existed anything at all, there was only darkness, and the darkness was cold and empty. Darkness, however, can only exist as a relative absence of radiance. As such, a singular grain of light began to dance and spin beside the darkness. No sooner had this spark instantiated, than the darkness sapped its energy and dimmed it with absorptive void. Once again, only darkness spanned entirety.

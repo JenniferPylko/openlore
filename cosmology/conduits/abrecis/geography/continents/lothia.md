@@ -1,6 +1,8 @@
 # Lothia
 
-Lothia was the home of the [Ashenal](../../inhabitants/anthropoids/ashenal.md), [humans](../../inhabitants/anthropoids/humans.md), and a few other [anthropoid](../../inhabitants/anthropoids/introduction.md) species directly following [Caer's Mistake](../../history/cataclysms/caers-mistake.md).
+<meta property="og:description" content="Lothia was the home of the Ashenal, humans, and a few other anthropoid species directly following Caer's Mistake.">
+
+Lothia (adj. Lothian) was the home of the [Ashenal](../../inhabitants/anthropoids/ashenal.md), [humans](../../inhabitants/anthropoids/humans.md), and a few other [anthropoid](../../inhabitants/anthropoids/introduction.md) species directly following [Caer's Mistake](../../history/cataclysms/caers-mistake.md).
 
 ## Landmarks
 

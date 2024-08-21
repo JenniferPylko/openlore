@@ -1,5 +1,7 @@
 # Aechak
 
+<meta property="og:description" content="Aechak was a nation of Meshar in northwest Sangura.">
+
 Aechak was a nation of [Meshar](../../inhabitants/anthropoids/meshar.md) in northwest [Sangura](../../geography/continents/sangura.md).
 
 ## Origins

@@ -1,5 +1,7 @@
 # Anthony Hill
 
+<meta property="og:description" content="Anthony Hill was a DTX contractor and former soldier who spearheaded the Westcolumn Mountain Tunneling Project in 1546 OA.">
+
 > *Both workers and soldiers die every day, but soldiers get memorials. I wake up every day and choose the life of the latter. Military-man to military-man, if you don't know which one you want to be then you'd best get your priorities straight.*  
 > -Anthony Hill
 

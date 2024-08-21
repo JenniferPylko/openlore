@@ -1,5 +1,7 @@
 # Major Wars
 
+<meta property="og:description" content="Wars throughout the history of Abrecis.">
+
 ## Hematic Wars
 
 The hematic wars were the conflicts that [started](first-hematic.md) and [ended](second-hematic.md) the [hematic era](../eras/hematic.md).

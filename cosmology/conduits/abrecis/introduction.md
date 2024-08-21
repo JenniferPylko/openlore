@@ -1,5 +1,7 @@
 # Abrecis
 
+<meta property="og:description" content="Abrecis was a world full of magic that fell into ruin as a result of the actions of its inhabitants.">
+
 Abrecis (adj. Abrecian) was a world full of magic that fell into ruin as a result of the actions of its inhabitants. Any story taking place before or during the [Hematic era](history/eras/hematic.md) will be tinged a shade darker than a fantasy story may normally be, due to the presence or inevitability of the [Hematic wars](history/wars/introduction.md#hematic-wars). The [geography](geography/introduction.md) shifted very suddenly on multiple occasions.
 
 Abrecis had many [nations](organizations/nations/introduction.md), [religions](organizations/religions/introduction.md), and [peoples](inhabitants/anthropoids/introduction.md) throughout its history.

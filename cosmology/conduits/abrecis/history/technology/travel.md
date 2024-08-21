@@ -1,5 +1,9 @@
 # Travel
 
+<meta property="og:description" content="Water, land, and air travel evolved alongside magic. At the height of magical progress, large-scale teleportation was possible as well.">
+
+Water, land, and air travel evolved alongside [magic](../../magic.md). At the height of magical progress, large-scale teleportation was possible as well.
+
 ## Seafaring
 
 Toward the end of the [oceanic era](../eras/oceanic.md) (relatively speaking) the [Ashenal](../../inhabitants/anthropoids/ashenal.md) first sailing ships. Various magics were used to improve the sailing experience, such as controlling the weather or purifying water.

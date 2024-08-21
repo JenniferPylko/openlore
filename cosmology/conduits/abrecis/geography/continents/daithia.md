@@ -1,6 +1,8 @@
 # Daithia
 
-This continent fell mostly in the southern hemisphere, with its southwestern region existing opposite [Lothia](lothia.md). This point opposite Lothia was the epicenter of [Caer's Mistake](../../history/cataclysms/caers-mistake.md).
+<meta property="og:description" content="The continent of Daithia fell mostly in the southern hemisphere, with its southwestern region existing opposite Lothia.">
+
+The continent of Daithia (adj. Daithian) fell mostly in the southern hemisphere, with its southwestern region existing opposite [Lothia](lothia.md). This point opposite Lothia was the epicenter of [Caer's Mistake](../../history/cataclysms/caers-mistake.md).
 
 ## Pre-Continental Islands
 

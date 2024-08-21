@@ -1,5 +1,7 @@
 # Eras
 
+<meta property="og:description" content="The history of Abrecis can be segmented up pretty nicely into a number of distinct eras, depending on what historical paradigm they are viewed from.">
+
 The history of Abrecis can be segmented up pretty nicely into a number of distinct eras, depending on what historical paradigm they are viewed from:
 
 - [Environment](../../environment.md) paradigm:

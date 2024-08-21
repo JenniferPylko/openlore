@@ -1,5 +1,7 @@
 # Caer's Mistake
 
+<meta property="og:description" content="Caer's Mistake was the magical cataclysm that ended the Oceanic era and marked the start of the Schismatic era.">
+
 [Caer's](../../inhabitants/figures/caer.md) Mistake was the magical cataclysm that ended the [Oceanic era](../eras/oceanic.md) and marked the start of the [Schismatic era](../eras/schismatic.md). A great wave of magic darkened the sky, causing the planet to cool and ice to cover the poles. The oceans were greatly reduced as the ice caps formed and the global geography was transformed from mostly ocean with small islands to 4 continents surrounded by ocean. [Ashenal](../../inhabitants/anthropoids/ashenal.md) and other animals were transformed instantly by the corrupting wave, with those closest to the epicenter being changed the most drastically. On the opposite side of the globe, a few communities on islands that became the [Lothian](../../geography/continents/lothia.md) highlands were untouched. The massive changes to the geography and ecosystem that resulted meant that the previously [cenobitic](../eras/cenobitic.md) life of the Ashenal could not be maintained by most anthropoids, and thus the [Nomadic era](../eras/nomadic.md) began.
 
 ## Prophecy

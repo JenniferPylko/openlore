@@ -1,5 +1,7 @@
 # Contributing
 
+<meta property="og:description" content="Contributions are welcome! Read this page to learn more.">
+
 If you notice an inconsistency or missing information, you can submit an issue. If you are looking for lore within a specific genre and none of the settings fit, submit an issue. If you find any content that appears *not* to be in the public domain, submit an issue.
 
 If you'd like to add to Open Lore, fork the repo then submit a pull request. Note that I will only accept pull requests that meet the following requirements:

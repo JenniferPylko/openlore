@@ -1,10 +1,12 @@
 # Cicadians
 
-Cicadians were an [anthropoid](introduction.md) species resembling cicadas. They had strong chitin exoskeletons and 4 arms in addition to glassy wings that aided their movement by enabling large leaps. Cicadian language was almost entirely hard consonants, making it sound almost mechanical.
+<meta property="og:description" content="Cicadians were an anthropoid species resembling cicadas from ring 1.">
+
+Cicadians were an [anthropoid](introduction.md) species resembling cicadas from [ring 1](../../geography/anthropic-rings.md). They had strong chitin exoskeletons and 4 arms in addition to glassy wings that aided their movement by enabling large leaps. Cicadian language was almost entirely hard consonants, making it sound almost mechanical.
 
 ## Culture
 
-The Cicadian [ring](../../geography/anthropic-rings.md) (ring 1) was very near the epicenter of [Caer's Mistake](../../history/cataclysms/caers-mistake.md), so the Cicadians were few and had a somewhat monolithic culture.
+The Cicadian ring was very near the epicenter of [Caer's Mistake](../../history/cataclysms/caers-mistake.md), so the Cicadians were few and had a somewhat monolithic culture.
 
 ## In Obsidism
 

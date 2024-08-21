@@ -1,5 +1,7 @@
 # Softlight Corp.
 
+<meta property="og:description" content="Founded in 2049 CE by Terrence Ross, Softlight started out as a biotech company specializing in synthetic implants.">
+
 Founded in 2049 CE by Terrence Ross, Softlight started out as a biotech company specializing in synthetic implants. Ross managed to get many high-profile investors on board, and used the money to buy Silane Chip Fabrication Technologies (SCFT) in 2055 CE. Softlight retained the Silane brand name for several years before phasing it out in 2061 CE. Softlight began designing its own implants and, with Silane's foundries, incorporating AI accelerator chips. As part of a military contract, Softlight created what could be considered the first cybernetic augmentation in 2058 CE.
 
 By 2060, Softlight had plans in place to deploy consumer versions, but the regulations around such procedures meant it would take decades to develop and test any products. Rather than wait for red tape, Ross once again turned to investors, raising an enormous amount of capital. This, along with his personal wealth, went toward buying land and building smart cities. With less governmental oversight, Softlight began testing consumer-targeted augmentations in 2065.

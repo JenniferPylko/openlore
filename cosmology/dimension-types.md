@@ -1,5 +1,9 @@
 # Dimension Types
 
+<meta property="og:description" content="Subconduits can exhibit varying physical properties. Some are similar to ordinary physics, and some are quite bizarre.">
+
+Subconduits can exhibit varying physical properties. Some are similar to ordinary physics, and some are quite bizarre.
+
 ## Standard 4-Manifold (S4M)
 
 A Standard 4-Manifold is a type of space with 4 dimensions, 3 of space and 1 of time. More specifically, Standard 4-Manifold is used to refer to a quantum relativistic (3,1) Lorentz manifold, exhibiting the standard physical laws of real life, or a superset of them. Most conduits contain at least 1 Standard 4-Manifold.

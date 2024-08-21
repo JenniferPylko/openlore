@@ -1,5 +1,7 @@
 # DTX
 
+<meta property="og:description" content="Daithian Transport Express was the railroad of the Daithian frontier, as well as one of the largest railroad corporations in the world.">
+
 [Daithian](../../geography/continents/daithia.md) Transport Express (DTX) was the railroad of the Daithian frontier, as well as one of the largest railroad corporations in the world.
 
 ## History

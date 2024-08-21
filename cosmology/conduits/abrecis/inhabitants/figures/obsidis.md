@@ -1,5 +1,7 @@
 # Obsidis (Mortal)
 
+<meta property="og:description" content="Obsidis was a human who played a key part in ending the first hematic war and started the second hematic war.">
+
 > *Magic is the great solvent of society. In its presence, all structure is lost, and what was solid and ordered becomes fluid chaos.*  
 > -Obsidis
 

@@ -1,5 +1,7 @@
 # Caer
 
+<meta property="og:description" content="Caer was an Ashenal mage who caused the first cataclysm, earning him the moniker The First Mistake">
+
 > *The prophecy did not foretell this day. I chose this day to show that change doesn't happen because of fate. History won't remember this because it was predicted: history will remember this because it wasn't.*  
 > -Caer
 

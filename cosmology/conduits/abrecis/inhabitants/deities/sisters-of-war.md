@@ -1,5 +1,7 @@
 # The Sisters of War
 
+<meta property="og:description" content="The Sisters of War were minor deities of Abrecis who ruled the island of Hy-Bresail in Glassvale.">
+
 The Sisters of War were minor deities of Abrecis who ruled the island of Hy-Bresail in [Glassvale](../../system/subconduits/glassvale.md).
 
 ## Danu
