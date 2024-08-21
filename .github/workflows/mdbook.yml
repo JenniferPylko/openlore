@@ -27,7 +27,8 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.cargo
-          key: cargo-${{ github.workflow }}-${{ runner.os }}-${{ runner.arch }}
+          key: cargo-${{ github.workflow }}-${{ hashFiles('~/.cargo/registry/CACHEDIR.tag') }}
+          restore-keys: cargo-${{ github.workflow }}-
       - name: Install mdBook
         run: |
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
