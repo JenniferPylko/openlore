@@ -41,6 +41,8 @@ For consistency's sake, please follow these guidelines.
 13. Avoid multiple links in the same file with the same target
 14. Aim for 100-1000 words per file
     - Files much smaller than this should probably be combined, and files much larger should be split
+15. Add an og:description html meta tag to each markdown document
+    - This can usually just be the same as the first sentence, but without any formatting.
 
 ## Tips
 

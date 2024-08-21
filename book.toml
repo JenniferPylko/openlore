@@ -17,3 +17,9 @@ no-section-label = true
 [output.html.fold]
 enable = true
 level = 2
+
+[output.wordcount]
+optional = true
+
+[output.linkcheck]
+optional = true

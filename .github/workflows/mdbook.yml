@@ -34,6 +34,7 @@ jobs:
           rustup update
           cargo install --version ${MDBOOK_VERSION} mdbook
           cargo install mdbook-autosummary
+          cargo install mdbook-wordcount
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -46,11 +47,11 @@ jobs:
           touch SUMMARY.md
           mv README.md introduction.md
           mdbook build
-          rm ./book/book.toml
+          rm ./book/html/book.toml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./book
+          path: ./book/html
   deploy:
     environment:
       name: github-pages

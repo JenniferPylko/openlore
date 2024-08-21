@@ -4,7 +4,7 @@
 
 Toward the end of the [oceanic era](../eras/oceanic.md) (relatively speaking) the [Ashenal](../../inhabitants/anthropoids/ashenal.md) first sailing ships. Various magics were used to improve the sailing experience, such as controlling the weather or purifying water.
 
-With [catabolic magic](../eras/catabolic.md) arcane engines could be imbued with perpetual spells that released [miasma](miasma.md) ../../miasma.md These were used to build faster ships that didn't rely on the wind.
+With [catabolic magic](../eras/catabolic.md) arcane engines could be imbued with perpetual spells that released [miasma](../../miasma.md) These were used to build faster ships that didn't rely on the wind.
 
 ## Land travel
 
