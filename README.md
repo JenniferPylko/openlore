@@ -1,5 +1,7 @@
 # Open Lore
 
+[![Deploy mdBook site to Pages](https://github.com/JenniferPylko/openlore/actions/workflows/mdbook.yml/badge.svg)](https://github.com/JenniferPylko/openlore/actions/workflows/mdbook.yml)
+
 ## What is it?
 
 Open Lore is a multiverse of [public domain](LICENSE.md) settings that can both include and be included in just about any other setting. If you'd like to contribute to the project, see [here](CONTRIBUTING.md).
