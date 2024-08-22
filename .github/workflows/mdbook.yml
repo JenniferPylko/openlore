@@ -49,7 +49,7 @@ jobs:
           rm ./book/html/book.toml
           rm -r ./book/html/theme
       - name: generate cache key
-        run: echo "CARGO_HASH=$(cat ~/.cargo/registry/CACHEDIR.tag | head -n 1 | cut -c 12-)" >> $GITHUB_ENV
+        run: echo "CARGO_HASH=$(cat ~/.cargo/registry/CACHEDIR.TAG | head -n 1 | cut -c 12-)" >> $GITHUB_ENV
       - name: save cargo cache
         id: save-cargo-cache
         uses: actions/cache/save@v4
