@@ -20,14 +20,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: get mdbook version
-        run: echo "MDBOOK_VERSION=$(cargo search mdbook --limit 1 -q --color never | tr " " "\n" | head -n 3 | tail -n 1)" >> $GITHUB_ENV
-      - name: Cache cargo
-        id: cache-cargo
-        uses: actions/cache@v4
+      - name: restore cargo cache
+        id: restore-cargo-cache
+        uses: actions/cache/restore@v4
         with:
           path: ~/.cargo
-          key: cargo-${{ github.workflow }}-${{ env.MDBOOK_VERSION }}
+          key: cargo-${{ github.workflow }}-
           restore-keys: cargo-${{ github.workflow }}-
       - name: Install mdBook
         run: |
@@ -50,6 +48,14 @@ jobs:
           mdbook build
           rm ./book/html/book.toml
           rm -r ./book/html/theme
+      - name: generate cache key
+        run: echo "CARGO_HASH=$(cat ~/.cargo/registry/CACHEDIR.tag | head -n 1 | cut -c 12-)" >> $GITHUB_ENV
+      - name: save cargo cache
+        id: save-cargo-cache
+        uses: actions/cache/save@v4
+        with:
+          path: ~/.cargo
+          key: cargo-${{ github.workflow }}-${{ env.CARGO_HASH }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
