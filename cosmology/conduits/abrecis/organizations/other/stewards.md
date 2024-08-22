@@ -6,7 +6,7 @@ The Stewards of Abrecis, or just The Stewards, were the human descendants of [Th
 
 ## Society
 
-The Stewards mythologized The Betrayers, who they called The Founders, and carried knowledge of [miasma](../../miasma.md) through generations with oral tradition. They tasked themselves with protecting the miasma tombs of Daithia from outside discovery or access, knowing the dangers of miasma sickness. Though [Obsidis](../../inhabitants/deities/obsidis.md) had removed all magic casting from the world, The Stewards could manipulate some permanent spells left in place by The Betrayers.
+The Stewards mythologized The Betrayers, who they called The Founders, and carried knowledge of [miasma](../../miasma.md) through generations with oral tradition. They tasked themselves with protecting the miasma tombs of Daithia from outside discovery or access, knowing the dangers of miasma sickness. Though [Obsidis](../../inhabitants/deities/obsidis.md) had removed all magic casting from the world, The Stewards could manipulate some permanent spells left in place by The Betrayers. The Stewards retained the Betrayers' tradition of severing ears, but did so at birth.
 
 ## Major Factions
 

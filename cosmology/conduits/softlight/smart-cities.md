@@ -1,0 +1,5 @@
+# Smart Cities
+
+<meta property="og:description" content="Smart cities were a type of municipality heavily integrated with technology and controlled by a corporation.">
+
+Smart cities were a type of municipality heavily integrated with technology and controlled by a corporation. Surveillance was ubiquitous and nearly everything was automated, including doors, transportation, and fines. Stores used systems of cameras to charge customers without any checkout process. The smart city concept can be seen as an evolution of 19th and 20th century company towns. Testing of the idea began in the early 21st century, but smart cities didn't become widespread until the latter half of the century. In addition to a high degree of control over employees and citizens, corporations could also use smart cities to avoid regulatory and market pressure they might otherwise be subjected to.
