@@ -11,4 +11,4 @@ The company was created in 1589 OA by [Cooper Tingward](../../inhabitants/figure
 ## Notable Employees
 
 - [Anthony Hill](../../inhabitants/figures/anthony-hill.md)
-- [Threwdge-Heppitdee Mylksan](../../figures/threwdge-heppitdee-mylksan.md)
+- [Threwdge-Heppitdee Mylksan](../../inhabitants/figures/threwdge-heppitdee-mylksan.md)

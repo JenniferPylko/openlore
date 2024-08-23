@@ -2,6 +2,8 @@
 
 <meta property="og:description" content="The first thing I remember is the feeling of cotton surrounding me.">
 
+**Setting:** The Multiverse
+
 The first thing I remember is the feeling of cotton surrounding me. The birth sarcophagus was dark, which gave me time to orient myself and process the instructions implanted in my mind. I noted my name (Kaeronothos), who my supervisor would be (Agesilaos), and my job title (worship extraction technician). A bright line sliced through the darkness as my birth sarcophagus unsealed, and I shielded my eyes to acquaint myself with my new luminescent surroundings.
 
 "Alright, get on with it. I don't have all eternity."

@@ -15,3 +15,7 @@ Discovered by Softlight scientists, [gridspace](gridspace.md) was a set of field
 ## Transhumanism and Posthumanism
 
 Powered by gridspace technology, augmentations, artificial intelligence, and androids became commonplace in the latter part of the 22nd century. Non-human minds were everywhere, some human-like, some alien.
+
+## Stories
+
+- [Sophocles Delta](../../../stories/sophocles-delta.md)
