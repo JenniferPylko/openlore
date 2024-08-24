@@ -8,6 +8,10 @@ The entire multiverse can be thought of as a great waterfall of aether cascading
 
 Existing throughout the multiverse is the astral dimension. Journeys between universes are accomplished by traveling through the astral dimension.
 
+## The Mental Dimension
+
+Lying "adjacent" (in a higher-dimensional sense) to the astral dimension is the mental dimension, a space of pure thought.
+
 ## Conduits
 
 The origin's energy crystallizes into boundaries that divert the time-stream's flow, forming individual universes, or [conduits](conduits/introduction.md). The conduit walls separate the universe from the outside multiverse.

@@ -2,7 +2,7 @@
 
 <meta property="og:description" content="Softlight Earth followed the same history as real life until 2049 CE.">
 
-Softlight Earth followed the same history as real life until 2049 CE. A large amount of land became owned by a few large tech companies, and this land was turned into [smart cities](smart-cities.md), communities where a private corporation could control every aspect of life in order to test new technologies with less regulatory and market pressure. At the same time, climate change continued and accelerated. Approximately 25% of the landmass present at the turn of the century was submerged by 2080 CE. Some coastal cities were replaced by [floating cities](floating-cities.md).
+Softlight Earth followed the same history as real life until 2049 CE. A large amount of land became owned by a few large tech companies, and this land was turned into [smart cities](smart-cities.md), communities where a private corporation could control every aspect of life in order to test new technologies with less regulatory and market pressure. At the same time, climate change continued and accelerated. Approximately 25% of the landmass present at the turn of the century was submerged by 2080 CE. Some coastal cities were replaced by [floating cities](floating-cities.md). Declining air quality and smog meant that masks with filters were necessary in many places.
 
 ## Softlight Corp.
 

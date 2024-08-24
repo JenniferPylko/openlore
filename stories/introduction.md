@@ -6,3 +6,4 @@ These stories happen within the multiverse of OpenLore.
 
 - [Creation Myth](creation.md)
 - [Fall of a Deity](fall-of-a-deity.md)
+- [Sophocles Delta](sophocles-delta.md)
