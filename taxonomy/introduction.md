@@ -6,3 +6,5 @@ A multiverse contains a myriad of things to categorize. In reality, life is cate
 
 - [Illustrati](illustrati/introduction.md)
 - [Impetiti](impetiti/introduction.md)
+
+Additionally, [polyphyletic](polyphyletic/introduction.md) groupings can be more useful for practical applications.

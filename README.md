@@ -28,7 +28,7 @@ Within the Open Lore multiverse, [the creation myth](stories/creation.md) descri
 
 To get started learning the cosmology, check out [multiverse structure](cosmology/introduction.md). For a reference of taxa, see [taxonomy](taxonomy/introduction.md). For stories that take place within the Open Lore multiverse, [go here](stories/introduction.md).
 
-Right now, there are 2 primary settings, or [conduits](cosmology/conduits/introduction.md), with a list of genres they'd be suitable for:
+Right now, there are 3 primary settings, or [conduits](cosmology/conduits/introduction.md), with a list of genres they'd be suitable for:
 
 - [Abrecis](cosmology/conduits/abrecis/introduction.md)
   - Pre-medieval fantasy
@@ -45,5 +45,8 @@ Right now, there are 2 primary settings, or [conduits](cosmology/conduits/introd
   - General sci-fi
   - Space exploration (sub-light speed)
   - Horror (sci-fi, modern day, or historical)
+- [Warble](cosmology/conduits/warble/introduction.md)
+  - Any sort of high fantasy
+  - Multiverse adventures
 
-Additionally, the broader multiverse can be used as a setting for a campaign that visits several smaller, less fleshed-out settings.
+Additionally, the broader multiverse can be used as a setting for a story that visits several smaller, less fleshed-out settings.
