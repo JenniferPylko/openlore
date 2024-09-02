@@ -1,5 +1,7 @@
 # The Demon Gate
 
+<meta property="og:description" content="I record this in the hope that one day a more enlightened person may understand it. I believe I have seen Takamahara, or Yomi. I am no longer sure there's a difference.">
+
 **Setting:** [Warble](../cosmology/conduits/warble/introduction.md)
 
 > *Traveler on the road  

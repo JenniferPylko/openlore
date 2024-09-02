@@ -5,5 +5,7 @@
 These stories happen within the multiverse of OpenLore.
 
 - [Creation Myth](creation.md)
+- [The Demon Gate](demon-gate.md)
 - [Fall of a Deity](fall-of-a-deity.md)
+- [Orion's Sight](orions-sight.md)
 - [Sophocles Delta](sophocles-delta.md)
