@@ -9,3 +9,4 @@ Known conduits:
 - [Abrecis](abrecis/introduction.md)
 - [Prototype Earth](prototype-earth.md)
 - [Softlight Earth](softlight/introduction.md)
+- [Warble](warble/introduction.md)
