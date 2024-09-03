@@ -1,6 +1,9 @@
 # Open Lore
 
+<meta property="og:description" content="Open Lore is a multiverse of public domain settings that can both include and be included in just about any other setting.">
+
 [![Deploy mdBook site to Pages](https://github.com/JenniferPylko/openlore/actions/workflows/mdbook.yml/badge.svg)](https://github.com/JenniferPylko/openlore/actions/workflows/mdbook.yml)
+[![Check opengraph description meta tags](https://github.com/JenniferPylko/openlore/actions/workflows/page-descriptions.yml/badge.svg)](https://github.com/JenniferPylko/openlore/actions/workflows/page-descriptions.yml)
 
 ## What is it?
 

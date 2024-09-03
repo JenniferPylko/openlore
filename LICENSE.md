@@ -1,5 +1,7 @@
 # Licensed Under CC0 (Public Domain)
 
+<meta property="og:description" content="Open Lore is marked with CC0 1.0, placing it in the public domain.">
+
 Open Lore is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), placing it in the public domain. This means a few things for the project:
 
 - You are free to use any portion of it for any purpose, even inclusion in copyrighted works.

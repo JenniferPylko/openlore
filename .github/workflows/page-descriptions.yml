@@ -21,6 +21,6 @@ jobs:
       - uses: actions/checkout@v4
       - name: Markdown files missing opengraph description
         run: |
-          files=($(find . -name '*.md' | xargs grep -L og:description))
+          files=($(find . -name '*.md' -not -path './.github/*' | xargs grep -L og:description))
           for f in ${files[@]}; do echo $f; done
           exit ${#files[@]}

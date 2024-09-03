@@ -16,7 +16,7 @@ If your pull request doesn't meet all of those requirements, it's not a big deal
 
 ## Ways to Contribute
 
-Contributions of all types are welcome! This could be just the description of a fictional creature, a record of a fictional historical event, a map, a drawing, a short story, or anything else that adds to the multiverse.
+Contributions of all types are welcome! This could be just the description of a fictional creature, a record of a fictional historical event, a map, a drawing, a short story, or anything else that adds to the multiverse. An especially easy and quick option is to just write up a description of a deity and stick it in the `deities/` folder, making it available for others to use.
 
 ## Style Guide
 
