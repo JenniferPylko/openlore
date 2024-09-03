@@ -1,0 +1,26 @@
+name: Check opengraph description meta tags
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Markdown files missing opengraph description
+        run: |
+          files=($(find . -name '*.md' | xargs grep -L og:description))
+          for f in ${files[@]}; do echo $f; done
+          exit ${#files[@]}
