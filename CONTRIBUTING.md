@@ -33,7 +33,7 @@ For consistency's sake, please follow these guidelines.
 6. Write descriptions of the real world in the appropriate tense
    - For example: `Istanbul is a city that used to be called Constantinople`
 7. Quoted punctuation goes inside quotes, non-quoted punctuation goes outside
-   - For example: `"What?", she exclaimed, defensively.`
+   - For example: `"What?" she exclaimed, defensively.` `I shouted "what?".`
 8. Always use Oxford commas
 9. Include exactly 1 top-level heading per file as the title of the file
 10. Do not indent paragraphs
