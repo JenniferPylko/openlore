@@ -111,3 +111,29 @@ Hanami engaged with doubt, as usual. "Could it not be a wild animal? Perhaps a b
 ---
 
 The ride was uneventful. I had packed everything Hanami asked me to, and we set forth with a horse and cart the town of Belvedere had so generously let us borrow. I'm pretty sure Hanami coerced them somehow, perhaps guilting them into it after taking care of a few monsters, but when I asked her about it she only told me that being an Orion was a good job, and nothing else.
+
+Seeing Sevath again was strange. It had been a good 3 years since I last trod this ground. Many things had changed. Many hadn't. We inquired with the watch about the attacks, but they had no additional information. They could, however, show us to the morgue.
+
+I suppose seeing a mangled corpse would be much more distressing with unimpaired eyesight, but I always found the idea more distressing than the image. Dr. Haefril had enlisted the help of a mage to instantly cool the bodies down to just above freezing, preventing decay. This was quite a benefit as far as analysis.
+
+Teriac hadn't been exaggerating about the strength of the attackers. Ligaments were torn through and bones were broken. Right away I could see a slight glow of magic on the body, but it was a hue I couldn't quite recognize. Similar to a transformation, but not quite.
+
+"What *is* that?" I asked.
+
+"Transformation aftershock." Hanami answered. "When a transformation ends and a creature returns to its original form, it leaves bits of aftershock."
+
+"The attacker was in its original form during the attack?"
+
+"Perhaps. Could be residual. Sometimes a feeder kills its victim, transforms back, then consumes its meal. These bodies don't look exsanguinated, or eaten, so I think that's unlikely. It may be that some inconspicuous animal, a rat, for example, was transformed to make the attack, but the transformation wasn't long-lasting."
+
+"Well if that's the case, our course of action should be silver blades, right?"
+
+"Silver blades will kill a transformed animal, but what about the mage that transformed them?"
+
+"Silver blades work on people too."
+
+Hanami chuckled. "That they do. We'll still take a walk around the town, see about anyone else got magic sticking to them."
+
+---
+
+We encountered Teriac again as we were exiting the morgue. I explained what we knew so far as Hanami rolled her eyes. She had no objections, however, when Teriac asked to accompany us, justifying her request with the point that the townsfolk would be more likely to open their doors for a local. So, the 3 of us went door to door just to see if we could spot any magic.
