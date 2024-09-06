@@ -80,4 +80,34 @@ Hanami engaged with doubt, as usual. "Could it not be a wild animal? Perhaps a b
 
 "Waning, less than a half moon."
 
-"Hmm. We are mere days past the summer solstice. This could be a Song phenomenon, not a Silence one." Hanami reasoned aloud.
+"Hmm. We are mere days past the summer solstice. This could be a Song phenomenon, not a Silence one." Hanami reasoned aloud. "Nothing left behind by the attacker? Fur, blood, bits of cloth, that type of thing?"
+
+"Nothing of the sort."
+
+"Very well. We don't have a lot to work with. Serran, pack a bit of each of the salts, vitriols, oils, and aquas from the alchemy supply. Pack some sage, belladonna, wormwood, and cedar from the witchcraft supply. Holy water, a few holy symbols. The blades. We depart in the morning."
+
+"We? I'm coming with you on this one?"
+
+"That you are." A pause. "Your memory of Sevath may prove useful in our investigation."
+
+"Yes, Elder." I responded with a tinge of surprise in my voice. Hanami started to plod out of the room, and Teriac fidgeted.
+
+"I'll show you out." I volunteered.
+
+"R- Right." She stood up and followed me to the door.
+
+"There's an inn just inside the gate of Belvedere proper, if you're not yet going to return to Sevath." I said, trying to be helpful.
+
+"Thank you." She said through a half smile. I closed the door and turned around to see Hanami standing there.
+
+"She looks to be about your age. Don't go getting *ideas*."
+
+"Ideas, Elder?"
+
+"Romance, lust, that sort of thing. Demons love that shit."
+
+"Noted. I don't think I'm much of an ideas woman anyway."
+
+---
+
+The ride was uneventful. I had packed everything Hanami asked me to, and we set forth with a horse and cart the town of Belvedere had so generously let us borrow. I'm pretty sure Hanami coerced them somehow, perhaps guilting them into it after taking care of a few monsters, but when I asked her about it she only told me that being an Orion was a good job, and nothing else.
