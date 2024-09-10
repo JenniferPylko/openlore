@@ -225,3 +225,91 @@ We joined the other 2 by the body. It was the same scene again: flesh torn throu
 Teriac looked quite distraught. Dr. Haefril laughed nervously. Hanami sighed.
 
 "Let's get this cleaned up." She voiced, suddenly sounded much more weary. "We'll need to get at least a few hours of sleep to operate tomorrow. Fatigue causes mistakes."
+
+---
+
+The first known victim had been Dorothy Mellow. She and her husband had worked at their butcher shop, but with both of them dead the shop had been abandoned for days. Teriac and I cautiously entered, silver blades drawn. Nothing. The interior was still. Some dried meats were in the glass case on the counter, next to a lockbox. Searching the pantry, living space, and kitchen were not fruitful, so we ventured down to the cellar. The sun's illumination did not make it far beyond the stairs, so we ignited our lamps. Various cured meats were hanging from the ceiling on hooks. There was a faint smell of rotting flesh.
+
+We proceeded carefully and slowly through the charcuterie rows. The lantern's flickering light made the shadows of the sausages and jerkies dance disconcertingly. I could hear Teriac's breath shaking, and I must admit that mine was as well. There was a wooden door set into a tunnel through the earth behind the stairs, and a sign that read "open slowly - watch for live animals" was mounted to it.
+
+I gingerly pushed open the door, and was immediately assaulted by the full force of the stench of rotting flesh. I tried to breathe shallowly and only through my mouth, and cast my lantern's beams of light into the room. Instruments of butchery lay on workbenches and shelves, and in the center of the killing floor was a ghastly scene. A pig carcass. Looking a bit like the bodies we'd seen. Next to it, chewed flesh and gnawed bones. Pig skin and viscera rotting in the dirt.
+
+"Pigs are prone to eat anything." I said, my voice sounding strange even to myself. "Dead rodents, farmhands that fall asleep in the pen, each other."
+
+I threw up. Seconds later I could hear the sound of vomiting behind me as well.
+
+---
+
+When we returned to the office, Hanami was not there. Dr. Haefril informed us that she had gone to attempt to recruit the help of a local mage, for the purpose of magical defenses. At her direction, the doctor had been drinking as much colloidal silver as he could stomach. The idea was that the silver could potentially make him an unappealing target to a beast affected by transformation magic. Hanami had left me instructions on setting up wards, so I got to work.
+
+"Ah, doctor." I said as I was down on the floor drawing an alchemical ward in gypsum. "If you have any syringes and would be so kind as to provide me a few ounces of your blood for the wards. I can use my own, but yours will be more effective at protecting *you*."
+
+"Right."
+
+The doctor walked over to a cabinet, and rooted through a few doors. He pulled out a leather strap, bandage, needle, and syringe. He screwed the needle onto the syringe and sat back down.
+
+"Intravenous okay?"
+
+"Intravenous is *preferable*."
+
+He set the syringe down and looped the leather around his upper left arm, and tightened the strap with his other hand and his teeth. He found a vein and slipped the needle in, slowly drawing up the blood. Once he had extracted a bit, he pulled the needle out and pressed the bandage to the hole in his arm.
+
+I mixed the blood with the requisite amount of aqua regia and waited for the sputtering reaction to complete, then began to paint it on the floor. It was at this point that Hanami returned.
+
+"No luck on a mage, not even for hire. No one wants anything to do with this. I suppose being asked for help by an Orion indicates enough danger to scare most people off."
+
+I finished the blood ward and switched to belladonna and cedar for a witchcraft-style ward. Teriac relayed what we had found in the butcher shop. When I finished arranging the cedar, I stood up to make a suggestion.
+
+"All of the victims, human ones at least, have met their death fleeing in terror from apparently nothing. Dr. Haefril, I think we should restrain you once it gets dark, to keep you in the wards and hopefully away from the attacker."
+
+"I have a gut reaction that says I don't want to be restrained, but after what I've seen I think you're right."
+
+---
+
+The doctor sat in a chair in the center of the wards, tied to it. Hanami paced in circles around him, as if trying to keep an eye on every angle. I leaned back against the table, facing the 2 of them, and Teriac sat in a chair on the other side of the table. On the table were all of our blades laid out, for easy access.
+
+It was a bit past 11:30 at night, and I grew more anxious with every passing minute. Suddenly, Hanami stopped and I stood up straighter. We had both seen a slight glow of transformation magic collect around Dr. Haefril.
+
+"I'm beginning to feel anxious and trapped, like I need to escape." Haefril said with a remarkable degree of calm.
+
+"I can see some transformation magic on you." I said. "All that silver in your body should help."
+
+No one moved for several minutes, other than to breathe. Then the doctor began to wince. He gasped in pain and twisted and turned against the ropes.
+
+"Can you describe what's going on?" Hanami asked.
+
+"Something- need-" Dr. Haefril growled. "Get it out!"
+
+His flesh began to ripple and distort. His skin appeared to harden and shift appearance to a glossy black over the course of several seconds.
+
+Then, he tore himself free from the ropes, and, screaming in pain, began to claw at his own torso. His fingers had grown to at least a foot long, and took on the appearance of spikes.
+
+He was killing himself. They had all killed themselves.
+
+Hanami stabbed her silver blade straight through his left arm in attempt to pin it, but he swung with his right and knocked her down.
+
+He sunk his spike-fingers into his abdomen and tore upward, shredding his own flesh.
+
+He dropped.
+
+An insectoid-looking spirit about the size of a fox rose from the corpse. Its wings buzzed behind it. It was somewhat ant-like, with a stinger.
+
+"Glass!" Hanami shouted at me. "The glass blade!"
+
+I glanced backward just long enough to pick out the weapon I needed, then rushed forward and stabbed upward, skewering the spirit against the ceiling. It twitched, then withered, then turned to ash. I dropped to my knees and let out terrified noises of every description. I was marginally aware of Hanami walking over to me. She helped me to my feet and over to the table, then found a bottle of whiskey in one of the cabinets and poured glasses for the 3 of us.
+
+---
+
+It took a while, but once my nerves settled I felt unfathomably exhausted. There was one thing I needed to find out before I fell asleep.
+
+"What *was* that?"
+
+"Ampulex." Hanami answered. "Nasty fuckers. An ampulex lays its egg in a mortal then dies. That egg rapidly matures over 24 hours, and the larval spirit connects to the host's spinal cord. This causes the host to go mad and kill itself, releasing the adult ampulex. It chooses its next host toward the end, just as the current host begins to panic. Cycle repeats."
+
+"How have I never heard of these? How have *you* never mentioned these?"
+
+"The last recorded existence of an ampulex is over 700 years ago. One appearing now... Something bigger is going on. I intend to find out what." She took a swallow from her glass of whiskey. "Beginning tomorrow. We need rest."
+
+Teriac had fallen asleep at the table after crying for a while. I stood up and walked over to rouse her. She got up, but looked unsteady on her feet, so I put my shoulders under her arm to help support her weight as we trudged up the stairs to the bedrooms.
+
+Hanami kept drinking the whiskey. Once I got to the bed I felt my body crash onto it. I slept through the night.
