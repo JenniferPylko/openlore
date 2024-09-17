@@ -1,5 +1,7 @@
 # Green Vitriol
 
+<meta property="og:description" content="Green vitriol is an iron sulfate that has a few useful properties.">
+
 Green vitriol is an iron sulfate that has a few useful properties. In its solid form it appears as green granulated crystal. It is soluble in water, and thus may be used in water-based elixirs and potions. Excess amounts are toxic.
 
 ## Uses

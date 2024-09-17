@@ -1,5 +1,7 @@
 # Vitriol
 
+<meta property="og:description" content="Vitriol is the alchemical name for any substance containing a sulfate ion. Vitriols may or may not be hydrous.">
+
 Vitriol is the alchemical name for any substance containing a sulfate ion. Vitriols may or may not be hydrous.
 
 ## Spirit of Vitriol
