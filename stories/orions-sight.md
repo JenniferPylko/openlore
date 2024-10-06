@@ -292,7 +292,7 @@ He sunk his spike-fingers into his abdomen and tore upward, shredding his own fl
 
 He dropped.
 
-An insectoid-looking spirit about the size of a fox rose from the corpse. Its wings buzzed behind it. It was somewhat ant-like, with a stinger.
+An insectoid-looking spirit about the size of a fox rose from the corpse. Its wings buzzed behind it. It was somewhat ant-like, with a single stinger or ovipositor ready to pierce its prey.
 
 "Glass!" Hanami shouted at me. "The glass blade!"
 

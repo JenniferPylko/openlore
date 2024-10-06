@@ -12,13 +12,13 @@ Astra felt her joints decompress as the craft came to a halt on the airlock rece
 
 "Identity confirmed. Welcome, Astra da05679a-4b91-4693-8549-855974a27052, to Sophocles Delta."
 
-They proceeded down the metal hallway. The walls had several posters advertising Softlight, the company that, well, was everything, and Utopia, the city floating off the coast of the pacific where androids did all the labor so humans could live happily and healthily away from the dangers of Earth's surface. The air in this construct seemed like an imitation of the hostile landscape below: hot, sandy, and noxious. While the atmosphere outside was lethally so, within the facility it was merely unpleasant.
+They proceeded down the metal hallway. The walls had several posters advertising Softlight, the company that, well, was everything, and Utopia, the city floating off the coast of the pacific where androids did all the labor so humans could live happily and healthily away from the dangers of Earth's deadzones. The air in this construct seemed like an imitation of the hostile landscape below: hot, sandy, and noxious. While the atmosphere outside was lethally so, within the facility it was merely unpleasant.
 
 Come to think of it, Astra noted, everything about this location was unwelcoming.
 
 The desert sand could injure living things and destroy machinery; plus the heat and pollution made the area uninhabitable. As if nature hadn't done enough to ward off anyone from visiting, the building that sprang from the desert protruded seemingly haphazardly in all directions to produce an angular and aggressive look.
 
-Astra was relieved that they hadn't shot down her aircraft, even more so that they had let her dock. Hopefully they wouldn't ask too many questions, or search her cargo ship. Maybe it would have been a better idea to brave the hurricanes and head straight to Berlin instead of flying into the dead zone.
+Astra was relieved that they hadn't shot down her aircraft, even more so that they had let her dock. Hopefully they wouldn't ask too many questions, or search her cargo ship. Maybe it would have been a better idea to brave the hurricanes and head straight to Berlin instead of flying into the deadzone.
 They reached the end of the hallway and the locking mechanism of 2 large metal doors hissed and disengaged. The doors slid apart. The air inside wafted out. It was considerably better conditioned than the air of the hallway they exited. The lights in here were softer and the floor was even tile instead of metal. Astra and the android continued into the facility's central tower.
 "Gregor 1c4d2cac-cc83-4f44-9d9a-866c73486756 will meet with you. Welcome again to Sophocles Delta."
 

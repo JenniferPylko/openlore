@@ -8,6 +8,7 @@ Some of the most common systems of magic were the following.
 
 - [Alchemy](alchemy/introduction.md)
 - [Arcane Engineering](arc-e/introduction.md)
+- [Hierophancy](hierophancy/introduction.md)
 - [Rune Carving](rune-carving/introduction.md)
 - [Scriptum Magorum](scriptum-magorum/introduction.md)
 - [Witchcraft](witchcraft/introduction.md)
