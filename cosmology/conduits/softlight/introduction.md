@@ -6,7 +6,7 @@ Softlight Earth followed the same history as real life until 2049 CE. A large am
 
 ## Softlight Corp.
 
-[Softlight Corp.](softlight-corp.md) was one such corporation that ventured into city building. Specializing in cybernetics, they developed the Softlight Module System, a device that connects to a user's nervous system in order to enhance them physically, mentally, or otherwise.
+[Softlight Corp.](corporations/softlight-corp.md) was one such corporation that ventured into city building. Specializing in cybernetics, they developed the Softlight Module System, a device that connects to a user's nervous system in order to enhance them physically, mentally, or otherwise.
 
 ## Gridspace
 

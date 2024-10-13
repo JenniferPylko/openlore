@@ -9,3 +9,7 @@ Gridspace was a 6-dimensional Lorentz Manifold in the [Softlight Earth](introduc
 - &#54;. The "time-size" dimension. This dimension behaved like the other spatial dimensions, but grew in size as time passed in the core dimension.
 
 Gridspace did not have the same forces or fields that the core dimension did. Instead, it had the information field, which was quantized into information-like wave packets called *informatrons*. Force carriers of this field were called *computrons*.
+
+Gridspace was discovered by [Softlight](cyber-orgs/softlight-corp.md) in 2079. Applications originally included an anti-rad cybernetic virus and other nanotechnology, leading to the original Androids. Cybernetic augmentations were packaged and sold as modules.
+
+Gridspace technology created or modified by independent actors was known as streetware.
