@@ -35,7 +35,7 @@ The aspects are as follows, arranged in a circle:
 13. Holy
     - Opposite profane
 14. Ordered
-    - Opposite ordered
+    - Opposite chaotic
 15. Occult
     - Opposite faerie
 16. Mechanical
