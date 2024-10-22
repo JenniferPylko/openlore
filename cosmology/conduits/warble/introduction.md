@@ -10,7 +10,7 @@ The solar system was a unary star system surrounded by several planets in the fo
 
 1. Harmony
 2. Melody
-3. [Warble](regions/introduction.md) (or Warble-d to differentiate from the conduit)
+3. [Warble](regions/introduction.md#warble-d) (or Warble-d to differentiate from the conduit)
 4. Tone
 5. Timbre
 
