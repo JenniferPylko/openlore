@@ -71,7 +71,7 @@ I grabbed Tae's intact hand and ran, not stopping until we had crossed the thres
 
 We arrived in Kiso, but Tae developed a fever in the following days, and became confused much of the time. The wound on her finger seemed to have become infected, and darkness radiated from it, marking her veins. Doctors and priests alike knew of no treatment. I did not know whether returning home would be a beneficial action, or if it would strain her body too much. Within a few days, the fever improved slightly, and she demanded we travel home. I assented, and we set out at dawn.
 
-"I wish we had never come across this baleful tori'i." said I.
+"I wish we had never come across this baleful tori'i." said I, as we passed it once again.
 
 "Not tori'i, kimon." said she. "Demon gate." She slowly turned toward me, a mirthless smile painted on her face. I stood there, petrified at the sight, and she took a step backward through the gate.
 
