@@ -12,7 +12,7 @@ My parents couldn't move- my father was a scribe locked into contract with the t
 
 ---
 
-Hanami was a woman who looked at once middle-aged and ancient. She looked like she had stopped aging at 40 over 1000 years ago, and now age leaked through in nearly imperceptible ways. Her dark hair held streaks of white. She kept it short, shaving all but the top of her head, which she let only grow long enough that it would barely droop, with a straight razor.
+Hanami was a woman who looked at once middle-aged and ancient. She looked like she had stopped aging at 40 over 1000 years ago, and now age leaked through in nearly imperceptible ways. Her dark hair held streaks of white. She kept it short, shaving all but the top of her head (which she let only grow long enough that it would barely droop) with a straight razor.
 
 She worked me hard, that's for sure. I spent 10 years learning the sword. Well, many different swords. She decided I had the most aptitude for swords that were long and thin, which I could use with 1 or 2 hands. I had to practice with swords of various materials selected for their magical properties- steel, lead, silver, bronze, glass, even wood. Besides the difference in balance and weight, some of these required different techniques and were optimal for different circumstances. Lead would dull easily, but it could sap certain magic. Glass would shatter if it hit something hard, but it was effective against some incorporeal beasts.
 

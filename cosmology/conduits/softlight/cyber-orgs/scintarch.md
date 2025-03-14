@@ -7,3 +7,5 @@ Scintarch was founded in Georgia in 2074 by Ken Ibara and Albert Roe. Former emp
 Like Softlight, Scintarch built [smart cities](../smart-cities.md) and [floating cities](../floating-cities.md). After the Moment War, Scintarch gained control of much of what was left of North America's eastern seaboard.
 
 As leverage against Softlight's proprietary approach, Scintarch focused on compatibility between systems.
+
+Scintarch bought New Millennium Weaponry (NMW) in 2103 after many years of cooperation to make their products compatible.
