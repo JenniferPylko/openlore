@@ -13,5 +13,6 @@ Early in its history, Warble-d generally had 1 nation per region, with each nati
 - [Cogkane](cogkane.md)
 - [Erranovna](erranovna.md)
 - [Nakatsukuni](nakatsukuni.md)
+- [Nunipet](nunipet.md)
 - [Tad-Assal](tad-assal.md)
 - [Yorunheim](yorunheim.md)

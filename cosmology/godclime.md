@@ -4,6 +4,8 @@
 
 Godclime was a physical representation of the multiverse that was created in order to communicate about the multiverse between beings that had limited perception of everything. It was a lingua franca of reality, so to speak. The origin cliffs towered far above, unreachable by even [deities](../deities/introduction.md). A waterfall spilled over, down to a pool below. At the center of this pool lay an island, shaded by a great central tree. Water flowed out of the pool, splitting into infinite rivers. All rivers eventually met the voidsea, forming estuaries and tidal pools. Every river was part of the etheric dimension, and the land between them was the astral dimension. To the sky was the mental dimension. Tiny streams that split from the rivers of infinity were self-contained universes, or [conduits](conduits/introduction.md).
 
+Godclime was originally conceived as a metaphor by [Elfemroth](../deities/elfemroth.md), but [Thullanoth](../deities/thullanoth.md) constructed it as a physical place in the multiverse, where it functioned as a hub connecting several conduits, including [Abrecis](conduits/abrecis/introduction.md) before it was cut off from the multiverse and [Warble](conduits/warble/introduction.md). This gave deities an easy method of travel between conduits, so they were able to gain followers across the multiverse.
+
 ## The Great Tree
 
 The great tree was home to the multiverse's deities. The trees roots reached far, only shying away from the voidsea's brine. The roots soaked up water, with souls of dead mortals. The tree lived off this water, and the deities drank from its sap, filtering out the souls and delivering them to afterlives.
