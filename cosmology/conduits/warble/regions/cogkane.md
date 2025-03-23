@@ -9,3 +9,7 @@ Most Cogkane religion was focused on worship of deities in a polytheistic sense 
 ## Currency
 
 Individual countries had their own currencies, but Cogkane minted coins too, and even outside of the region these coins were generally accepted. Cogkane minted bronze coins called "birds", pewter coins called "cogs", and brass coins called "songs". 1 song is 10 cogs, and 1 cog is 10 birds.
+
+## Religion
+
+Several gods had followers within Cogkane, including [Horkos](../../../../deities/horkos.md), [Irannis](../../../../deities/irannis.md), [Karun](../../../../deities/karun.md), [Televath](../../../../deities/televath.md), and [Thullanoth](../../../../deities/thullanoth.md).
