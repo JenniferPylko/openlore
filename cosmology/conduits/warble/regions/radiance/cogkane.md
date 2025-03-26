@@ -12,4 +12,4 @@ Individual countries had their own currencies, but Cogkane minted coins too, and
 
 ## Religion
 
-Several gods had followers within Cogkane, including [Horkos](../../../../deities/horkos.md), [Irannis](../../../../deities/irannis.md), [Karun](../../../../deities/karun.md), [Televath](../../../../deities/televath.md), and [Thullanoth](../../../../deities/thullanoth.md).
+Several multiversal gods had followers within Cogkane, including [Horkos](../../../../../deities/horkos.md), [Irannis](../../../../../deities/irannis.md), [Karun](../../../../../deities/karun.md), [Televath](../../../../../deities/televath.md), and [Thullanoth](../../../../../deities/thullanoth.md).
