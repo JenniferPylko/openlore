@@ -2,7 +2,7 @@
 
 <meta property="og:description" content="The Radiance was a continent west of The Blear.">
 
-The Blear was a continent west of The Blear
+The Radiance was a continent west of The Blear
 
 ## Regions
 
