@@ -17,3 +17,9 @@ Several multiversal gods had followers within Cogkane, including [Horkos](../../
 ## International Relations
 
 During the times of the wilds, Cogkane was only regularly in contact with [Thioda](thioda.md). Xenophobia was high during this period, so Thioda was seen mostly as a threat.
+
+## Member Nations
+
+### Kyanium
+
+Kyanium was the farthest east nation of Cogkane. Legislation by the parliament of Kyanium was often promoted to international Cogkane law due to the nation's influence.
