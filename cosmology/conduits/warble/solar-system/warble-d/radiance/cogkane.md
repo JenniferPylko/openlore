@@ -23,3 +23,5 @@ During the times of the wilds, Cogkane was only regularly in contact with [Thiod
 ### Kyanium
 
 Kyanium was the farthest east nation of Cogkane. Legislation by the parliament of Kyanium was often promoted to international Cogkane law due to the nation's influence.
+
+Kyanium existed on resource-rich land, meaning their exports were largely coal, minerals, and metal. Kyanium developed a large mining industry, and consequently, metallurgical and alchemical innovations. Alchemy research became a common area of academic study among mages, establishing Kyanium as a hub of the arcane.
