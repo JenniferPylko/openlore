@@ -6,4 +6,4 @@ The Oria were a group of hunters that defended civilization against magical thre
 
 An individual member of The Oria was called an Orion. An Orion's life was often solitary, and they were regarded with some unease by others. An Orion usually had 1 or more animal companions, traditionally hunting dogs. Oria who lived in relatively safe areas, were getting old for the profession, or had suffered a serious injury would often train an apprentice, rarely more than 1 at a time.
 
-The Oria were one of the few factions that had an international (and even rarer, intercontinental) presence.
+The Oria were one of the few factions that had an international (and even rarer, intercontinental) presence during the time of the wilds.

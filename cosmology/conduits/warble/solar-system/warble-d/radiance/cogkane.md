@@ -14,6 +14,8 @@ Individual countries had their own currencies, but Cogkane minted coins too, and
 
 Several multiversal gods had followers within Cogkane, including [Horkos](../../../../../../deities/horkos.md), [Irannis](../../../../../../deities/irannis.md), [Karun](../../../../../../deities/karun.md), [Televath](../../../../../../deities/televath.md), and [Thullanoth](../../../../../../deities/thullanoth.md).
 
+In other areas and less commonly in Cogkane, people built shrines and worshipped spirits. [The Verdant Ascetics](../../../factions/verdant-ascetics.md) and most of [Nakatsukuni](nakatsukuni.md) fell in this category.
+
 ## International Relations
 
 During the times of the wilds, Cogkane was only regularly in contact with [Thioda](thioda.md). Xenophobia was high during this period, so Thioda was seen mostly as a threat.
