@@ -1,0 +1,7 @@
+# Fritillary
+
+<meta property="og:description" content="A fritillary is a creature that can stand approximately 2 meters tall. It looks mostly like a butterfly with checkered wings, but has ape-like limbs.">
+
+A fritillary is a creature that can stand approximately 2 meters tall. It looks mostly like a butterfly with checkered wings, but has ape-like limbs.
+
+Fritillary commonly refers to only the guardian caste of this creature, but fritillary guardians are in fact rare. Most fritillaries are nearly indistinguishable from regular butterflies, but exhibit unique behavior. Called traveler imagos, normal adult fritillaries swarm together before migration. At the same time, guardian imagos from the previous migration emerge from hibernation. A few fritillary eggs are selected by the swarm, and as soon as they hatch the traveler imagos take turns feeding the larva a sugary secretion that alters development. These chosen guardian larva spend weeks growing to 1-2 meters long before entering the pupa stage. After several more weeks the guardian imago emerges from the pupa and migration begins. At this point, the previous guardian imagos die to provide sustenance for the swarm and its new guardians. Once the fritillaries have reached their destination, the guardians find caves or other spaces to hibernate until the next migration.

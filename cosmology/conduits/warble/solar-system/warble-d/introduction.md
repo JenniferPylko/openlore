@@ -20,3 +20,7 @@ Warble-d had a single moon, which had different names in different regions of th
 ## Calendar
 
 Warble-d matched prototype earth in rotation, orbit, and procession, meaning 1 day was 24 hours and 1 year was 365 days (plus leap years). The Cogkane calendar was widely adopted, which had 10 months of 36 days and a 5 day (plus leap days) intercalary celebration of the new year in early spring. The months were called Thaln, Eoch, Jirl, Met, Tsotar, Uve, Drynt, Ira, Karu, and Thull.
+
+## Creatures
+
+In addition to most of the same creatures as prototype earth (that is, real life creatures), Warble-d was home to many fantastical creatures, particularly [Ichoria](../../../../../taxonomy/illustrati/incorporia/anima/ichoria/introduction.md).

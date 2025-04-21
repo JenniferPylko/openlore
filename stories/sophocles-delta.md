@@ -60,7 +60,7 @@ Astra blinked. "Okay. I'm skeptical, but more than that, why are you telling me?
 
 "Please bear with me."
 
-Astra sighed, "no: everything I have I needed to earn."
+Astra sighed. "No: everything I have I needed to earn."
 
 "I see. That sentiment is pretty common among underlings. Do you think the Utopians feel the same way?"
 

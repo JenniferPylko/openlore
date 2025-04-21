@@ -26,7 +26,7 @@ I glanced around, looking for the source of the voice. It appeared to come from 
 
 ---
 
-The office building was a stark change from the industrial bowels of the incubation facility. I entered the elevator, then punched in the number of my destination floor, 8264345754, and leaned against the wall for the centuries-long wait. The elevator stopped a few times along the way for others to enter and leave. I pressed up against the wall and stared at the changing floor number in order to avoid any casual office chatter. I didn't really want to engage with the 5-foot-something lizard talking loudly into her mobile phone or the blazing inferno that took up most of the space and was emitting a constant scream.
+The office building was a stark change from the industrial bowels of the incubation facility. I entered the elevator, then punched in the number of my destination floor, 8264345754, and leaned against the wall for the centuries-long wait. The elevator stopped a few times along the way for others to enter and leave. I pressed up against the wall and stared at the changing floor number in order to avoid any casual office chatter. I didn't really want to engage with the meter-and-something lizard talking loudly into her mobile phone or the blazing inferno that took up most of the space and was emitting a constant scream.
 
 At last the fire entity departed, leaving a layer of soot on the floor. The lizard was still on the phone.
 

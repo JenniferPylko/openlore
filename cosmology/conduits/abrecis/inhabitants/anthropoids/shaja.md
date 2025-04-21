@@ -1,8 +1,8 @@
 # Shaja
 
-<meta property="og:description" content="The Shaja were a species of anthropoid who were commonly 6-8 feet tall, muscular, and had pointed ears, sharp teeth, and skin of various earth tones.">
+<meta property="og:description" content="The Shaja were a species of anthropoid who were commonly 2-3 meters tall, muscular, and had pointed ears, sharp teeth, and skin of various earth tones.">
 
-The Shaja were a species of [anthropoid](introduction.md) who were commonly 6-8 feet tall, muscular, and had pointed ears, sharp teeth with lower canines that would extend enough to appear as tusks in some individuals, and skin of various earth tones. Many humans and [Ashenal](ashenal.md) stereotyped Shaja as violent, brutish, unintelligent, and non-magical, but any member of most Shaja communities could tell you that such an idea was absurd.
+The Shaja were a species of [anthropoid](introduction.md) who were commonly 2-3 meters tall, muscular, and had pointed ears, sharp teeth with lower canines that would extend enough to appear as tusks in some individuals, and skin of various earth tones. Many humans and [Ashenal](ashenal.md) stereotyped Shaja as violent, brutish, unintelligent, and non-magical, but any member of most Shaja communities could tell you that such an idea was absurd.
 
 ## Major Cultures
 
