@@ -6,7 +6,7 @@ The Radiance was a continent west of The Blear.
 
 ## Regions
 
-- [Cogkane](cogkane.md)
+- [Cogkane](cogkane/introduction.md)
 - [Nakatsukuni](nakatsukuni.md)
 - [Tad-Assal](tad-assal.md)
 - [Thioda](thioda.md)
