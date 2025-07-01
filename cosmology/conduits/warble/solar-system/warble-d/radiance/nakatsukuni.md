@@ -6,4 +6,4 @@ Nakatsukuni was a region of Warble-d inspired by japanese history and mythology.
 
 ## Religion
 
-The people of Nakatsukuni built tori'i across the islands where they worshipped various spirits, which were most commonly nature spirits. People from Nakatsukuni who moved to [Cogkane](cogkane/introduction.md) often joined the [Verdant Ascetics](../../../factions/verdant-ascetics.md).
+The people of Nakatsukuni built tori'i across the islands where they worshipped various spirits, which were most commonly nature spirits. People from Nakatsukuni who moved to [Cogkane](cogkane/introduction.md) often joined the [Verdant Ascetics](../../../factions/verdant-ascetics.md). Unlike the Cogkane tendency to taxonomize spirits, the people of Nakatsukuni tended to name and worship individual spirits.
