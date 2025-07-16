@@ -4,7 +4,7 @@
 
 ## Ione
 
-Ione was a far-west nation of Cogkane. Rather than establish any military body of its own, Ione has close relations with the central Cogkane infantry. Ionian citizens enlist directly in the Cogkane military.
+Ione was a far-west nation of Cogkane. Rather than establish any military body of its own, Ione had close relations with the central Cogkane infantry. Ionian citizens would enlist directly in the Cogkane military.
 
 ## Kyanium
 

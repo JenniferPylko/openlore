@@ -16,7 +16,7 @@ Several multiversal gods had followers within Cogkane, including [Horkos](../../
 
 In other areas and less commonly in Cogkane, people built shrines and worshipped spirits. [The Verdant Ascetics](../../../../factions/verdant-ascetics.md) fell in this category.
 
-The Trifulgoris, or the 3 flames of the world, is a symbol composed of the glyphs for divinity, spirit, and mortality. It's widely used in Cogkane as a symbol of sanctity to bring good fortune.
+The Trifulgoris, or the 3 flames of the world, is a symbol composed of the glyphs for divinity, spirit, and mortality. It was widely used in Cogkane as a symbol of sanctity and to bring good fortune.
 
 ## International Relations
 
