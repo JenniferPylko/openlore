@@ -38,6 +38,7 @@ jobs:
           files=($(find . -name '*.md' -not -path './.github/*'))
           for f in ${files[@]};
             do echo $f
+            git log -3 --all -- $f
             commit_hash=$(git rev-list -1 --all -- $f)
             last_modified=$(git log -1 $commit_hash --pretty="format:%ch")
             echo -e "\n\n*Last Modified $last_modified*" >> $f
