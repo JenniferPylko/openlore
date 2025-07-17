@@ -20,6 +20,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: restore cargo cache
         id: restore-cargo-cache
         uses: actions/cache/restore@v4
