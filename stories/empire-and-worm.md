@@ -4,7 +4,7 @@
 
 **Setting:** [Warble](../cosmology/conduits/warble/introduction.md)
 
-If there's one thing about humanity, it's that whether they walk, run, or crawl, fate sidesteps. This is shared neither by higher nor lower creatures, who have come and gone across the ages. Gods may bring fate to her knees, yet only man can move her. Individuals live and die, but relentlessly, the human bloodline continues.
+If there's one thing about humanity, it's that whether they walk, run, or crawl, fate sidesteps. This is shared neither by higher nor lower creatures, who have come and gone across the ages. Gods may bring fate to her knees, yet only man can move her. Individuals live and die, but, relentlessly, the human bloodline continues.
 
 The Thousand Worms slept, as they always had.
 
@@ -18,4 +18,6 @@ The priest no longer received dogmatic truths. The mage no longer wrote innovati
 
 The Thousand Worms slept, as they always had.
 
-Olam held a desperation within his soul, that of a caged animal. All he perceived was within the cage, and he knew not what lay outside it, nor what material formed the bars.
+Olam held a desperation within his soul, that of a caged animal. All he could perceive was within the cage, and he knew not what lay outside it, nor what material formed the bars, nor the form of his jailors.
+
+By the nature of his station as a Great Mage, Olam was afforded sundry resources. All extant magics were within reach, but he imagined greater. His station imbued responsibility as well, participation in the emperor's court and councils.

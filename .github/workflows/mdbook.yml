@@ -33,6 +33,13 @@ jobs:
           rustup update
           cargo install mdbook
           cargo install mdbook-autosummary
+      - name: Last Modified Date
+        run: |
+          files=($(find . -name '*.md' -not -path './.github/*'))
+          for f in ${files[@]}
+            last_modified=$(git log -1 --pretty="format:%ch" $f)
+            do echo -e "\n\n*Last Modified $last_modified*" >> $f
+          done
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
