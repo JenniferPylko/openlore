@@ -21,3 +21,29 @@ The Thousand Worms slept, as they always had.
 Olam held a desperation within his soul, that of a caged animal. All he could perceive was within the cage, and he knew not what lay outside it, nor what material formed the bars, nor the form of his jailors.
 
 By the nature of his station as a Great Mage, Olam was afforded sundry resources. All extant magics were within reach, but he imagined greater. His station imbued responsibility as well, participation in the emperor's court and councils.
+
+It was responsibility that found Olam seated in the banquet hall, next to the head of the marble table, which seated Emperor Ocellux. Across sat the emperor's daughter, Adnexa.
+
+The emperor spoke of expanding across The Radiance, humanity stretching across all the lands of the world.
+
+"But will that be enough?" Adnexa asked, her tone already carrying the answer.
+
+"What more could there be?" Emperor Ocellux responded in kind.
+
+Adnexa appeared to ignore the question.
+
+"Tell me, Mage Olam, is one mad to believe in that which cannot be sensed?"
+
+Olam Spoke, "I should need more specificity to answer. What does it mean to sense? Only the natural perception, or the magical as well?"
+
+"The ancients had faith in gods before any evidence of them was known."
+
+"So, faith then. Is faith madness? I shouldn't think so."
+
+"What do you have faith in, Mage Olam?"
+
+"I... don't know. Faith seems hardly needed anymore. Perhaps I find it in my work. Even as the end of the road may seem near, I have faith in the coming stride."
+
+Ocellux spoke again, "At the end of the road, what step does one take?"
+
+Olam smiled, having brought the conversation to exactly where he wanted, "Other worlds. Warble is but a part of a larger cosmos. Expansion need not be limited by the edges of our world. We will pierce the aether and take for empire the breadth of creation."
