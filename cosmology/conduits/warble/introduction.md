@@ -9,4 +9,5 @@ The primary planet of the [solar system](solar-system/introduction.md) was [Warb
 ## Stories
 
 - [The Demon Gate](../../../stories/demon-gate.md)
+- [Empire and Worm](../../../stories/empire-and-worm.md)
 - [Orion's Sight](../../../stories/orions-sight.md)
