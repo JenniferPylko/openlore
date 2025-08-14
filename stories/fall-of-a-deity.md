@@ -70,7 +70,7 @@ It was a lot of information, but Agesilaos assured me I wouldn't have to remembe
 
 "Before the bureaucracy the whole process was done by small groups of deities, or sometimes even individual deities. They'd have to go through each soul and just eat up the worship, then deal with the leftover soul. Any deity that didn't have enough worshippers would just starve. This system, with a separation of duties where not everyone needs to be worshipped, is much more efficient."
 
-My job was to maintain and repair the extraction machines. The lab had an older model as a testbed to learn the inner workings of it's hyperical system. Agesilaos told me that once I was comfortable with troubleshooting the machines, I could work on the production floor whenever I didn't have anything to do if I wanted to earn a little extra.
+My job was to maintain and repair the extraction machines. The lab had an older model as a testbed to learn the inner workings of its hyperical system. Agesilaos told me that once I was comfortable with troubleshooting the machines, I could work on the production floor whenever I didn't have anything to do if I wanted to earn a little extra.
 
 I had a combined office/workshop, which was pretty sweet. In addition to the main door, there was a powered large overhead door that could be opened in order to transport the extraction machines in and out. My desk was already stocked with a desktop interface, as well as various tools and supplies.
 

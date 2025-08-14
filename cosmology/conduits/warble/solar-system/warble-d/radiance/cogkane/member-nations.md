@@ -1,6 +1,6 @@
 # Member Nations
 
-<meta property="og:description" content="Cogkane member nations">
+<meta property="og:description" content="Cogkane member nations.">
 
 ## Ione
 
