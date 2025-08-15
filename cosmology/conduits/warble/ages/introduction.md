@@ -22,4 +22,4 @@ The whole of the planet was now wild and untamed. A land of spirits and phenomen
 
 ## The Wild Age
 
-Human communities held on, and even began to grow. Their expansion was much slower than it had been, as they now had to contend with the dense wilds of spirits.
+Human communities held on, and even began to grow. Their expansion was much slower than it had been, as they now had to contend with the dense wilds of spirits. Water travel was favored due to the Ocean Crossing, magical paths that safely accelerated ships to specific global coasts.
