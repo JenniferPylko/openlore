@@ -19,7 +19,7 @@ Warble-d had a single moon, which had different names in different regions of th
 
 ## Calendar
 
-Warble-d matched prototype earth in rotation, orbit, and procession, meaning 1 day was 24 hours and 1 year was 365 days (plus leap years). The Cogkane calendar was widely adopted, which had 10 months of 36 days and a 5 day (plus leap days) intercalary celebration of the new year in early spring. The months were called Thaln, Eoch, Jirl, Met, Tsotar, Uve, Drynt, Ira, Karu, and Thull.
+Warble-d matched prototype earth in rotation, orbit, and procession, meaning 1 day was 24 hours and 1 year was 365 days (plus leap years). The Cogkane calendar was widely adopted, which had 10 months of 36 days and a 5 day (plus leap days) intercalary celebration of the new year in early spring. Each month was 6 weeks long, with each week being 6 days. The months were called Thaln, Eoch, Jirl, Met, Tsotar, Uve, Drynt, Ira, Karu, and Thull. In the northern hemisphere, Thaln, Eoch, and Jirl were the winter months. Met and Tsotar were the spring months, with the new year festival occurring between the 3rd and 4th weeks of Met. Uve, Drynt, and Ira were the summer months. Karu and Thull were the autumn months.
 
 ## Creatures
 

@@ -2,11 +2,11 @@
 
 <meta property="og:description" content="A deity, or god, is a specific type of being that subsists on mental energy fiber produced by thinking beings, while also existing as pure thought.">
 
-A deity, or god, is a specific type of being that subsists on mental energy fiber produced by thinking beings, while also existing as pure thought. The first of these was [Loom](loom.md), who created [Ere](ere.md) and [Elfemroth](elfemroth.md). Most deities are parasitic, gaining such sustenance through worship, though some are fully predatory or exhibit aspects of both parasitism and predation.
+A deity, or god, is a specific type of being that subsists on mental energy fiber produced by thinking beings, while also existing as pure thought. The first of these was [Loom](pantheons/primordial/loom.md), who created [Ere](pantheons/primordial/ere.md) and [Elfemroth](pantheons/primordial/elfemroth.md). Most deities are parasitic, gaining such sustenance through worship, though some are fully predatory or exhibit aspects of both parasitism and predation.
 
 ## Administrative System
 
-Ere and Elfemroth created a great celestial bureaucracy to manage the distribution of mental energy fiber. This served 2 purposes: as the multiversal pantheons grew, this organization could make sure that deities actually got the mental energy fiber they were entitled to by worship from their followers, and also to tax this worship to direct some mental energy fiber to Loom, lest it raze the multiverse and start anew. Part of this celestial bureaucracy was the [Clock of Being](../cosmology/clock-of-being.md).
+Ere and Elfemroth created a great celestial bureaucracy to manage the distribution of mental energy fiber. This served 2 purposes: as the multiversal pantheons grew, this organization could make sure that deities actually got the mental energy fiber they were entitled to by worship from their followers, and also to tax this worship to direct some mental energy fiber to Loom, lest it raze the multiverse and start anew. Part of this celestial bureaucracy was the [Clock of Being](../cosmology/clock-of-being.md) and [pantheon system](pantheons/introduction.md).
 
 ## Types
 

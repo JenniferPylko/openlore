@@ -6,7 +6,7 @@ Warble changed drastically throughout its history, and as such that history is d
 
 ## The Dawn Age
 
-At first, the world of Warble-d slept. [Tsotarmateht](../../../../deities/tsotarmateht.md) worked, creating The Thousand Worms to form the land and sea and shaping the would-be inhabitants to match the state of [prototype earth](../../prototype-earth.md). The [Ichoria](../../../../taxonomy/illustrati/incorporia/anima/ichoria/introduction.md) were a project of [Eochan](../../../../deities/eochan.md) and [Dryntir](../../../../deities/dryntir.md), bringing life to that which might otherwise be relegated to the domain of dreams. With preparation over, the deities withdrew and The Thousand Worms burrowed deep, to sleep below the planet's mantle indefinitely.
+At first, the world of Warble-d slept. [Tsotarmateht](../../../../deities/pantheons/superi-vulgati/tsotarmateht.md) worked, creating The Thousand Worms to form the land and sea and shaping the would-be inhabitants to match the state of [prototype earth](../../prototype-earth.md). The [Ichoria](../../../../taxonomy/illustrati/incorporia/anima/ichoria/introduction.md) were a project of [Eochan](../../../../deities/pantheons/superi-vulgati/eochan.md) and [Dryntir](../../../../deities/pantheons/nadhil/dryntir.md), bringing life to that which might otherwise be relegated to the domain of dreams. With preparation over, the deities withdrew and The Thousand Worms burrowed deep, to sleep below the planet's mantle indefinitely.
 
 Humans were placed in [The Chalice](../solar-system/warble-d/chalice/introduction.md) and transitioned from hunter-gatherer to agrarian society. They called themselves The Empire Animorum. Ichoria spirits were rare at first, but their presence in the world grew alongside humanity's.
 
